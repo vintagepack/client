@@ -1,0 +1,111 @@
+[15:39:31] [main/INFO] [Foundation]: System ClassLoader is AppCL
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:39:31] [main/INFO] [FML.TWEAK]: Initializing Mixins...
+[15:39:31] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar!/org/spongepowered/asm/mixin/MixinEnvironment.class Service=LaunchWrapper Env=UNKNOWN
+[15:39:31] [main/INFO] [FML.TWEAK]: Initializing MixinExtras...
+[15:39:31] [main/INFO] [Foundation]: Using primary tweak name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:39:31] [main/INFO] [Foundation]: Calling tweak net.minecraftforge.fml.common.launcher.FMLTweaker@3a320ade
+[15:39:31] [main/INFO] [FML.TWEAK]: Jar location: file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/libraries/cleanroom-0.2.2-alpha-universal.jar
+[15:39:31] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[15:39:31] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 22.0.1, running on Windows 10:amd64:10.0, installed at C:\Program Files\Zulu\zulu-22
+[15:39:31] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[15:39:31] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[15:39:31] [main/WARN] [FML]: The coremod MixinBooter (net.minecraftforge.fml.relauncher.MixinBooterPlugin) is not signed!
+[15:39:31] [main/INFO] [FML]: Searching C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods for mods
+[15:39:31] [main/INFO] [FML]: Searching C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2 for mods
+[15:39:31] [main/INFO] [FML]: Found FMLCorePluginContainsFMLMod marker in +Fugue-1.12.2-0.15.3.jar.
+[15:39:31] [main/WARN] [FML]: The coremod Fugue (com.cleanroommc.fugue.common.FugueLoadingPlugin) is not signed!
+[15:39:31] [main/WARN] [FML]: The coremod com.cleanroommc.scalar.ScalarLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:39:31] [main/WARN] [FML]: The coremod ScalarLoadingPlugin (com.cleanroommc.scalar.ScalarLoadingPlugin) is not signed!
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name org.spongepowered.asm.launch.MixinTweaker
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name com.cleanroommc.fugue.common.LateBootstrapTweaker
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:39:31] [main/INFO] [Foundation]: Calling tweak net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker@6bb7cce7
+[15:39:31] [main/INFO] [Foundation]: Calling tweak net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker@6bb7cce7
+[15:39:31] [main/INFO] [Foundation]: Calling tweak FMLCorePlugin
+[15:39:32] [main/WARN] [Foundation]: The jar file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar has a security seal for path LZMA, but that path is defined and not secure
+[15:39:32] [main/WARN] [Foundation]: The jar file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar has a security seal for path LZMA, but that path is defined and not secure
+[15:39:32] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5de5e95
+[15:39:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[15:39:32] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[15:39:32] [main/INFO] [Foundation]: Calling tweak FMLForgePlugin
+[15:39:32] [main/INFO] [Foundation]: Calling tweak Fugue
+[15:39:32] [main/INFO] [Foundation]: Calling tweak ScalarLoadingPlugin
+[15:39:32] [main/INFO] [Foundation]: Calling tweak org.spongepowered.asm.launch.MixinTweaker@69cd1085
+[15:39:32] [main/INFO] [Foundation]: Calling tweak com.cleanroommc.fugue.common.LateBootstrapTweaker@a09303
+[15:39:32] [main/INFO] [Foundation]: Calling tweak MixinBooter
+[15:39:32] [main/INFO] [Foundation]: Calling tweak net.minecraftforge.fml.common.launcher.FMLDeobfTweaker@60e3c26e
+[15:39:32] [main/INFO] [Foundation]: Launching wrapped minecraft net.minecraft.client.main.Main
+[15:39:33] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Tsranuna
+[15:39:35] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 3.3.4-snapshot+SNAPSHOT
+[15:39:35] [Client thread/INFO] [STDOUT]: [org.lwjgl.opengl.Display:create:90]: TODO: Implement Display.create(PixelFormat)
+[15:39:35] [Client thread/WARN] [oshi.util.FileUtil]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/6.5.0/oshi-core-6.5.0.jar!/oshi.properties, jar:file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/6.5.0/oshi-core-6.5.0.jar!/oshi.properties]
+[15:39:36] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
+[15:39:36] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 22.0.1, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+	Memory: 3944742912 bytes (3762 MB) / 4294967296 bytes (4096 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 23 total; -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:+UseZGC -XX:AllocatePrefetchStyle=1 -XX:+ZGenerational -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms4096m -Xmx4096m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+MixinBooter (cleanroom-0.2.2-alpha-universal.jar)
+  
+ScalarLoadingPlugin (scalar-1.12.2-3.4.1.jar)
+  
+Fugue (+Fugue-1.12.2-0.15.3.jar)
+  
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.0 Compatibility Profile Context 24.3.1.240216' Renderer: 'AMD Radeon(TM) Graphics'
+[15:39:36] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[15:39:36] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[15:39:36] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[15:39:36] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[15:39:36] [Client thread/INFO] [FML]: Searching C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods for mods
+[15:39:36] [Client thread/INFO] [FML]: Searching C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2 for mods
+[15:39:38] [Client thread/INFO] [FML]: Forge Mod Loader has identified 9 mods to load
+[15:39:38] [Client thread/WARN] [FML]: Mod scalar has been disabled through configuration
+[15:39:38] [Client thread/INFO] [FML]: FML has found a non-mod file config-1.4.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:39:38] [Client thread/INFO] [FML]: FML has found a non-mod file scala-library-2.13.13.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:39:38] [Client thread/INFO] [MixinBooter]: Instantiating all ILateMixinLoader implemented classes...
+[15:39:38] [Client thread/INFO] [MixinBooter]: Instantiating all ILateMixinLoader implemented classes...
+[15:39:38] [Client thread/INFO] [MixinBooter]: Instantiating class com.cleanroommc.fugue.common.FugueLateMixinLoader for its mixins.
+[15:39:38] [Client thread/WARN] [mixin]: Reference map 'fugue.mixin.refmap.json' for fugue.mixin.mod.json could not be read. If this is a development environment you can ignore this message
+[15:39:38] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, configanytime, cleanroom, FML, forge, mixinbooter, fugue] at CLIENT
+[15:39:38] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, configanytime, cleanroom, FML, forge, mixinbooter, fugue] at SERVER
+[15:39:38] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fugue
+[15:39:38] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[15:39:38] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[15:39:38] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[15:39:38] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[15:39:38] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[15:39:38] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:38] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:38] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:38] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:38] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:38] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:38] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:38] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:38] [Client thread/INFO] [FML]: Injecting itemstacks
+[15:39:38] [Client thread/INFO] [FML]: Itemstack injection complete
+[15:39:38] [Thread-1/INFO] [FML]: Using sync timing. 200 frames of Display.update took 186164200 nanos
+[15:39:39] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[15:39:39] [Thread-3/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[15:39:39] [Thread-3/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:39:39] [Thread-3/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[15:39:39] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[15:39:41] [Client thread/INFO] [FML]: Max texture size: 16384
+[15:39:43] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[15:39:43] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:43] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:43] [Client thread/INFO] [FML]: Injecting itemstacks
+[15:39:43] [Client thread/INFO] [FML]: Itemstack injection complete
+[15:39:44] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 9 mods
+[15:39:44] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[15:40:13] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[15:40:13] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[15:40:13] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

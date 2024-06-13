@@ -1,0 +1,1281 @@
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion java.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion javax.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.w3c.dom.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.xml.sax.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion jdk.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion sun.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.apache.logging.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.apache.commons.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.apache.http.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.apache.maven.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.openjdk.nashorn.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.omg.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.slf4j.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.burningwave.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.ietf.jgss.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.jcp.xml.dsig.internal.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion netscape.javascript.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion com.sun.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion net.minecraft.launchwrapper.LaunchClassLoader
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion net.minecraft.launchwrapper.Launch
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion top.outlands.foundation.boot.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion top.outlands.foundation.function.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion top.outlands.foundation.trie.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion io.github.toolfactory.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion org.burningwave.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion javassist.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion com.jcraft.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion com.google.gson.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion com.google.common.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion com.google.thirdparty.publicsuffix.
+[15:39:31] [main/DEBUG] [Foundation]: Adding classloader exclusion io.netty.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.asm.launch.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.asm.logging.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.asm.mixin.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.asm.obfuscation.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.asm.service.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.asm.transformers.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.asm.util.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.include.com.google.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.tools.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion com.llamalad7.mixinextras.
+[15:39:31] [main/INFO] [Foundation]: System ClassLoader is AppCL
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ASMVisitorTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ASMClassWriterTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Patching org.objectweb.asm.FieldVisitor
+[15:39:31] [main/DEBUG] [Foundation]: Patching org.objectweb.asm.ClassVisitor
+[15:39:31] [main/DEBUG] [Foundation]: Patching org.objectweb.asm.MethodVisitor
+[15:39:31] [main/DEBUG] [Foundation]: Patching org.objectweb.asm.ClassWriter
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.objectweb.asm.
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.common.launcher
+[15:39:31] [main/INFO] [FML.TWEAK]: Initializing Mixins...
+[15:39:31] [main/DEBUG] [mixin]: MixinService [LaunchWrapper] was successfully booted in net.minecraft.launchwrapper.LaunchClassLoader@24959ca4
+[15:39:31] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=jar:file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar!/org/spongepowered/asm/mixin/MixinEnvironment.class Service=LaunchWrapper Env=UNKNOWN
+[15:39:31] [main/DEBUG] [Foundation]: Registering transformer: org.spongepowered.asm.mixin.transformer.Proxy
+[15:39:31] [main/DEBUG] [mixin]: Error cleaning class output directory: .mixin.out
+[15:39:31] [main/DEBUG] [mixin]: Adding mixin transformer proxy
+[15:39:31] [main/DEBUG] [mixin]: Initialising Mixin Platform Manager
+[15:39:31] [main/DEBUG] [mixin]: Adding mixin platform agents for container ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)
+[15:39:31] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentFMLLegacy for ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)
+[15:39:31] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[PREINIT]
+[15:39:31] [main/DEBUG] [mixin]: MixinPlatformAgentFMLLegacy accepted container ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)
+[15:39:31] [main/DEBUG] [mixin]: Instancing new MixinPlatformAgentDefault for ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)
+[15:39:31] [main/DEBUG] [mixin]: MixinPlatformAgentDefault accepted container ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Local/Programs/PrismLauncher/jars/NewLaunch.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/libraries/cleanroom-0.2.2-alpha-universal.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm/9.7/asm-9.7.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-deprecated/7.1/asm-deprecated-7.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/top/outlands/foundation/0.13.7/foundation-0.13.7.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/burningwave/jvm-driver/8.16.1/jvm-driver-8.16.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/toolfactory/jvm-driver/9.7.1/jvm-driver-9.7.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/toolfactory/narcissus/1.0.7/narcissus-1.0.7.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/javassist/javassist/3.30.2-GA/javassist-3.30.2-GA.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/zone/rong/imaginebreaker/2.1/imaginebreaker-2.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/ibm/icu/icu4j/75.1/icu4j-75.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/jline/jline/3.26.1/jline-3.26.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/maven/maven-artifact/3.9.7/maven-artifact-3.9.7.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-compress/1.26.2/commons-compress-1.26.2.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/6.5.0/oshi-core-6.5.0.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.13/fastutil-8.5.13.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-io/commons-io/2.16.1/commons-io-2.16.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-logging/commons-logging/1.3.1/commons-logging-1.3.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.23.1/log4j-core-2.23.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.23.1/log4j-slf4j2-impl-2.23.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/xml/bind/jakarta.xml.bind-api/4.0.2/jakarta.xml.bind-api-4.0.2.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/xml/ws/jakarta.xml.ws-api/4.0.2/jakarta.xml.ws-api-4.0.2.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/activation/jakarta.activation-api/2.1.3/jakarta.activation-api-2.1.3.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/glassfish/corba/glassfish-corba-omgapi/4.2.5/glassfish-corba-omgapi-4.2.5.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/llamalad7/mixinextras-common/0.3.6/mixinextras-common-0.3.6.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar for mixin tweaker
+[15:39:31] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)]
+[15:39:31] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)]
+[15:39:31] [main/INFO] [FML.TWEAK]: Initializing MixinExtras...
+[15:39:31] [main/DEBUG] [MixinExtras|Service]: com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6) is taking over from null
+[15:39:31] [main/DEBUG] [mixin]: Registering new injector for @Inject with org.spongepowered.asm.mixin.injection.struct.CallbackInjectionInfo
+[15:39:31] [main/DEBUG] [mixin]: Registering new injector for @ModifyArg with org.spongepowered.asm.mixin.injection.struct.ModifyArgInjectionInfo
+[15:39:31] [main/DEBUG] [mixin]: Registering new injector for @ModifyArgs with org.spongepowered.asm.mixin.injection.struct.ModifyArgsInjectionInfo
+[15:39:31] [main/DEBUG] [mixin]: Registering new injector for @Redirect with org.spongepowered.asm.mixin.injection.struct.RedirectInjectionInfo
+[15:39:31] [main/DEBUG] [mixin]: Registering new injector for @ModifyVariable with org.spongepowered.asm.mixin.injection.struct.ModifyVariableInjectionInfo
+[15:39:31] [main/DEBUG] [mixin]: Registering new injector for @ModifyConstant with org.spongepowered.asm.mixin.injection.struct.ModifyConstantInjectionInfo
+[15:39:31] [main/INFO] [Foundation]: Using primary tweak name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:39:31] [main/INFO] [Foundation]: Calling tweak net.minecraftforge.fml.common.launcher.FMLTweaker@3a320ade
+[15:39:31] [main/INFO] [FML.TWEAK]: Jar location: file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/libraries/cleanroom-0.2.2-alpha-universal.jar
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion com.cleanroommc.loader.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.relauncher.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.classloading.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.common.asm.transformers.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.common.patcher.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.repackage.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion LZMA.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion scala.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion it.unimi.dsi.
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion oshi.
+[15:39:31] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[15:39:31] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[15:39:31] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 22.0.1, running on Windows 10:amd64:10.0, installed at C:\Program Files\Zulu\zulu-22
+[15:39:31] [main/DEBUG] [FML]: Removing LWJGL2 from Java classpath
+[15:39:31] [main/DEBUG] [FML]: Java classpath at launch is:
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Local/Programs/PrismLauncher/jars/NewLaunch.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The Vintage Pack/libraries/cleanroom-0.2.2-alpha-universal.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm/9.7/asm-9.7.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-deprecated/7.1/asm-deprecated-7.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/top/outlands/foundation/0.13.7/foundation-0.13.7.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/burningwave/jvm-driver/8.16.1/jvm-driver-8.16.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/toolfactory/jvm-driver/9.7.1/jvm-driver-9.7.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/toolfactory/narcissus/1.0.7/narcissus-1.0.7.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/javassist/javassist/3.30.2-GA/javassist-3.30.2-GA.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/zone/rong/imaginebreaker/2.1/imaginebreaker-2.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/ibm/icu/icu4j/75.1/icu4j-75.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/jline/jline/3.26.1/jline-3.26.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/maven/maven-artifact/3.9.7/maven-artifact-3.9.7.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-compress/1.26.2/commons-compress-1.26.2.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/6.5.0/oshi-core-6.5.0.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.13/fastutil-8.5.13.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-io/commons-io/2.16.1/commons-io-2.16.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-logging/commons-logging/1.3.1/commons-logging-1.3.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.23.1/log4j-core-2.23.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.23.1/log4j-slf4j2-impl-2.23.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/xml/bind/jakarta.xml.bind-api/4.0.2/jakarta.xml.bind-api-4.0.2.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/xml/ws/jakarta.xml.ws-api/4.0.2/jakarta.xml.ws-api-4.0.2.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/activation/jakarta.activation-api/2.1.3/jakarta.activation-api-2.1.3.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/glassfish/corba/glassfish-corba-omgapi/4.2.5/glassfish-corba-omgapi-4.2.5.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/llamalad7/mixinextras-common/0.3.6/mixinextras-common-0.3.6.jar
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar
+[15:39:31] [main/DEBUG] [FML]: Java library path at launch is:
+[15:39:31] [main/DEBUG] [FML]:     C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The Vintage Pack/natives
+[15:39:31] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries
+[15:39:31] [main/DEBUG] [FML]: Cleaning up mods folder: C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods
+[15:39:31] [main/DEBUG] [FML]: Examining file: +Fugue-1.12.2-0.15.3.jar
+[15:39:31] [main/DEBUG] [FML]: Examining file: scalar-1.12.2-3.4.1.jar
+[15:39:31] [main/DEBUG] [FML]: Extracting ContainedDep cats-free_3-2.10.0.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-free_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Extracted ContainedDep cats-free_3-2.10.0.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-free_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Examining file: cats-free_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Extracting ContainedDep cats-core_3-2.10.0.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-core_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Extracted ContainedDep cats-core_3-2.10.0.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-core_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Examining file: cats-core_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Extracting ContainedDep cats-kernel_3-2.10.0.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-kernel_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Extracted ContainedDep cats-kernel_3-2.10.0.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-kernel_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Examining file: cats-kernel_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Extracting ContainedDep scala3-library_3-3.4.1.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala3-library_3-3.4.1.jar
+[15:39:31] [main/DEBUG] [FML]: Extracted ContainedDep scala3-library_3-3.4.1.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala3-library_3-3.4.1.jar
+[15:39:31] [main/DEBUG] [FML]: Examining file: scala3-library_3-3.4.1.jar
+[15:39:31] [main/DEBUG] [FML]: Extracting ContainedDep scala-library-2.13.13.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala-library-2.13.13.jar
+[15:39:31] [main/DEBUG] [FML]: Extracted ContainedDep scala-library-2.13.13.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala-library-2.13.13.jar
+[15:39:31] [main/DEBUG] [FML]: Examining file: scala-library-2.13.13.jar
+[15:39:31] [main/DEBUG] [FML]: Extracting ContainedDep config-1.4.3.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\config-1.4.3.jar
+[15:39:31] [main/DEBUG] [FML]: Extracted ContainedDep config-1.4.3.jar from C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar to C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\config-1.4.3.jar
+[15:39:31] [main/DEBUG] [FML]: Examining file: config-1.4.3.jar
+[15:39:31] [main/DEBUG] [FML]: Cleaning up mods folder: C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2
+[15:39:31] [main/DEBUG] [FML]: File already proccessed C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-core_3-2.10.0.jar, Skipping
+[15:39:31] [main/DEBUG] [FML]: File already proccessed C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-free_3-2.10.0.jar, Skipping
+[15:39:31] [main/DEBUG] [FML]: File already proccessed C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-kernel_3-2.10.0.jar, Skipping
+[15:39:31] [main/DEBUG] [FML]: File already proccessed C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\config-1.4.3.jar, Skipping
+[15:39:31] [main/DEBUG] [FML]: File already proccessed C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala-library-2.13.13.jar, Skipping
+[15:39:31] [main/DEBUG] [FML]: File already proccessed C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala3-library_3-3.4.1.jar, Skipping
+[15:39:31] [main/DEBUG] [FML]: Enabling runtime deobfuscation
+[15:39:31] [main/DEBUG] [Foundation]: Registering transformer: net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[15:39:31] [main/DEBUG] [FML]: Instantiating coremod class FMLCorePlugin
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.relauncher.FMLCorePlugin
+[15:39:31] [main/WARN] [FML]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[15:39:31] [main/DEBUG] [FML]: Added access transformer class net.minecraftforge.fml.common.asm.transformers.AccessTransformer to enqueued access transformers
+[15:39:31] [main/DEBUG] [FML]: Enqueued coremod FMLCorePlugin
+[15:39:31] [main/DEBUG] [FML]: Instantiating coremod class FMLForgePlugin
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.classloading.FMLForgePlugin
+[15:39:31] [main/WARN] [FML]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[15:39:31] [main/DEBUG] [FML]: Enqueued coremod FMLForgePlugin
+[15:39:31] [main/DEBUG] [FML]: Instantiating coremod class MixinBooterPlugin
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.relauncher.MixinBooterPlugin
+[15:39:31] [main/TRACE] [FML]: coremod named MixinBooter is loading
+[15:39:31] [main/DEBUG] [FML]: The coremod net.minecraftforge.fml.relauncher.MixinBooterPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[15:39:31] [main/WARN] [FML]: The coremod MixinBooter (net.minecraftforge.fml.relauncher.MixinBooterPlugin) is not signed!
+[15:39:31] [main/DEBUG] [FML]: Enqueued coremod MixinBooter
+[15:39:31] [main/DEBUG] [FML]: All fundamental core mods are successfully located
+[15:39:31] [main/DEBUG] [FML]: Discovering coremods
+[15:39:31] [main/INFO] [FML]: Searching C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods for mods
+[15:39:31] [main/DEBUG] [FML]:   Adding +Fugue-1.12.2-0.15.3.jar to the mod list
+[15:39:31] [main/DEBUG] [FML]:   Adding scalar-1.12.2-3.4.1.jar to the mod list
+[15:39:31] [main/INFO] [FML]: Searching C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2 for mods
+[15:39:31] [main/DEBUG] [FML]:   Adding cats-core_3-2.10.0.jar to the mod list
+[15:39:31] [main/DEBUG] [FML]:   Adding cats-free_3-2.10.0.jar to the mod list
+[15:39:31] [main/DEBUG] [FML]:   Adding cats-kernel_3-2.10.0.jar to the mod list
+[15:39:31] [main/DEBUG] [FML]:   Adding config-1.4.3.jar to the mod list
+[15:39:31] [main/DEBUG] [FML]:   Adding scala-library-2.13.13.jar to the mod list
+[15:39:31] [main/DEBUG] [FML]:   Adding scala3-library_3-3.4.1.jar to the mod list
+[15:39:31] [main/DEBUG] [FML]: Examining for coremod candidacy +Fugue-1.12.2-0.15.3.jar
+[15:39:31] [main/INFO] [FML]: Found FMLCorePluginContainsFMLMod marker in +Fugue-1.12.2-0.15.3.jar.
+[15:39:31] [main/DEBUG] [FML]: Instantiating coremod class FugueLoadingPlugin
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion com.cleanroommc.fugue.common.FugueLoadingPlugin
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion com.cleanroommc.fugue.common.
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: EnderCoreTransformerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ClassTransformerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: EntityPlayerRayTraceTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: SplashProgressTransformerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: InitializerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ClassSnifferTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: CompatibilityTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: TickCentralTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: PriorityAppendTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: LogisticPipesHandlerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: LogisticsClassTransformerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: LogisticsPipesClassInjectorTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: defineClassTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: LoadClassTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: EnumInputClassTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: LoliReflectorTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: JavaFixesTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: LoliFMLCallHookTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ModIdentifierTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: DisplayListTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: FontRendererTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ForgeTweakerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: EnergyConnectorSettingsTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ClassHierarchyManagerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ForgeASMInjectorTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: PluginEntityTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: SubaquaticIMTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: NothiriumClassTransformerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: BufferBuilderTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: FreeSectorManagerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: GroovyClassLoaderTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: Ic2cExtrasLoadingPluginTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: SimplyHotSpringsConfigTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: PlayerRendererHookVisitorTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: InjectorMethodVisitorTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: WorldGenVampireOrchidTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: FieldSetterTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ITweakerTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ReflectFieldTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: URLClassLoaderTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ScriptEngineTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: MalformedUUIDTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: RemapTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: ConnectionBlockingTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: RemapLegacyLWTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: RemapSunReflectionTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: DWheelTransformer
+[15:39:31] [main/DEBUG] [Foundation]: Registering explicit transformer: FinalStripperTransformer
+[15:39:31] [main/TRACE] [FML]: coremod named Fugue is loading
+[15:39:31] [main/DEBUG] [FML]: The coremod com.cleanroommc.fugue.common.FugueLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[15:39:31] [main/WARN] [FML]: The coremod Fugue (com.cleanroommc.fugue.common.FugueLoadingPlugin) is not signed!
+[15:39:31] [main/DEBUG] [FML]: Enqueued coremod Fugue
+[15:39:31] [main/DEBUG] [FML]: Examining for coremod candidacy cats-core_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Not found coremod data in cats-core_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Examining for coremod candidacy cats-free_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Not found coremod data in cats-free_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Examining for coremod candidacy cats-kernel_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Not found coremod data in cats-kernel_3-2.10.0.jar
+[15:39:31] [main/DEBUG] [FML]: Examining for coremod candidacy config-1.4.3.jar
+[15:39:31] [main/DEBUG] [FML]: Not found coremod data in config-1.4.3.jar
+[15:39:31] [main/DEBUG] [FML]: Examining for coremod candidacy scala-library-2.13.13.jar
+[15:39:31] [main/DEBUG] [FML]: Not found coremod data in scala-library-2.13.13.jar
+[15:39:31] [main/DEBUG] [FML]: Examining for coremod candidacy scala3-library_3-3.4.1.jar
+[15:39:31] [main/DEBUG] [FML]: Not found coremod data in scala3-library_3-3.4.1.jar
+[15:39:31] [main/DEBUG] [FML]: Examining for coremod candidacy scalar-1.12.2-3.4.1.jar
+[15:39:31] [main/TRACE] [FML]: Adding scalar-1.12.2-3.4.1.jar to the list of known coremods, it will not be examined again
+[15:39:31] [main/DEBUG] [FML]: Instantiating coremod class ScalarLoadingPlugin
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion com.cleanroommc.scalar.ScalarLoadingPlugin
+[15:39:31] [main/WARN] [FML]: The coremod com.cleanroommc.scalar.ScalarLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[15:39:31] [main/WARN] [FML]: The coremod ScalarLoadingPlugin (com.cleanroommc.scalar.ScalarLoadingPlugin) is not signed!
+[15:39:31] [main/DEBUG] [FML]: Registering language adapter net.minecraftforge.fml.common.ILanguageAdapter$JavaAdapter for language java.
+[15:39:31] [main/DEBUG] [FML]: Registering language adapter com.cleanroommc.scalar.ScalaLanguageAdapter for language scala.
+[15:39:31] [main/DEBUG] [FML]: Enqueued coremod ScalarLoadingPlugin
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.common.launcher
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name org.spongepowered.asm.launch.MixinTweaker
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion org.spongepowered.asm.launch
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name com.cleanroommc.fugue.common.LateBootstrapTweaker
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion com.cleanroommc.fugue.common
+[15:39:31] [main/INFO] [Foundation]: Loading tweak name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:39:31] [main/DEBUG] [Foundation]: Adding transformer exclusion net.minecraftforge.fml.common.launcher
+[15:39:31] [main/INFO] [Foundation]: Calling tweak net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker@6bb7cce7
+[15:39:31] [main/INFO] [Foundation]: Calling tweak net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker@6bb7cce7
+[15:39:31] [main/INFO] [Foundation]: Calling tweak FMLCorePlugin
+[15:39:32] [main/DEBUG] [FML]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[15:39:32] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[15:39:32] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[15:39:32] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[15:39:32] [main/TRACE] [FML]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[15:39:32] [main/DEBUG] [FML]: Injection complete
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin for FMLCorePlugin {net.minecraftforge.fml.relauncher.FMLCorePlugin}
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin FMLCorePlugin
+[15:39:32] [main/WARN] [Foundation]: The jar file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar has a security seal for path LZMA, but that path is defined and not secure
+[15:39:32] [main/WARN] [Foundation]: The jar file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar has a security seal for path LZMA, but that path is defined and not secure
+[15:39:32] [main/DEBUG] [FML]: Read 1161 binary patches
+[15:39:32] [main/DEBUG] [FML]: Loading deobfuscation resource /deobf_data-1.12.2.tsrg with 36076 records
+[15:39:32] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@5de5e95
+[15:39:32] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[15:39:32] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[15:39:32] [main/DEBUG] [FML]: Coremod plugin class FMLCorePlugin run successfully
+[15:39:32] [main/INFO] [Foundation]: Calling tweak FMLForgePlugin
+[15:39:32] [main/DEBUG] [FML]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[15:39:32] [main/DEBUG] [FML]: Injection complete
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin for FMLForgePlugin {net.minecraftforge.classloading.FMLForgePlugin}
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin FMLForgePlugin
+[15:39:32] [main/DEBUG] [FML]: Coremod plugin class FMLForgePlugin run successfully
+[15:39:32] [main/INFO] [Foundation]: Calling tweak Fugue
+[15:39:32] [main/DEBUG] [FML]: Injecting coremod Fugue \{com.cleanroommc.fugue.common.FugueLoadingPlugin\} class transformers
+[15:39:32] [main/DEBUG] [Foundation]: Registering explicit transformer: CommonRegistrar$Transformer
+[15:39:32] [main/DEBUG] [FML]: Injection complete
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin for Fugue {com.cleanroommc.fugue.common.FugueLoadingPlugin}
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin Fugue
+[15:39:32] [main/DEBUG] [FML]: Coremod plugin class FugueLoadingPlugin run successfully
+[15:39:32] [main/INFO] [Foundation]: Calling tweak ScalarLoadingPlugin
+[15:39:32] [main/DEBUG] [FML]: Injecting coremod ScalarLoadingPlugin \{com.cleanroommc.scalar.ScalarLoadingPlugin\} class transformers
+[15:39:32] [main/DEBUG] [FML]: Injection complete
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin for ScalarLoadingPlugin {com.cleanroommc.scalar.ScalarLoadingPlugin}
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin ScalarLoadingPlugin
+[15:39:32] [main/DEBUG] [FML]: Coremod plugin class ScalarLoadingPlugin run successfully
+[15:39:32] [main/INFO] [Foundation]: Calling tweak org.spongepowered.asm.launch.MixinTweaker@69cd1085
+[15:39:32] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)]
+[15:39:32] [main/DEBUG] [mixin]: Processing prepare() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)]
+[15:39:32] [main/DEBUG] [mixin]: Compatibility level JAVA_8 specified by fugue.mixin.mod.json is lower than the default level supported by the current mixin service (JAVA_21).
+[15:39:32] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)]
+[15:39:32] [main/DEBUG] [mixin]: Processing launch tasks for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)]
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Local/Programs/PrismLauncher/jars/NewLaunch.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-glfw/3.3.4-27-CLEANROOM/lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-jemalloc/3.3.4-27-CLEANROOM/lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-openal/3.3.4-27-CLEANROOM/lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-opengl/3.3.4-27-CLEANROOM/lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-stb/3.3.4-27-CLEANROOM/lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3-tinyfd/3.3.4-27-CLEANROOM/lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows-arm64.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows-x86.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/lwjgl3/lwjgl3/3.3.4-27-CLEANROOM/lwjgl3-3.3.4-27-CLEANROOM-natives-windows.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/realms/1.10.22/realms-1.10.22.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/text2speech/1.10.3/text2speech-1.10.3.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/libraries/cleanroom-0.2.2-alpha-universal.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm/9.7/asm-9.7.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/ow2/asm/asm-deprecated/7.1/asm-deprecated-7.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/top/outlands/foundation/0.13.7/foundation-0.13.7.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/burningwave/jvm-driver/8.16.1/jvm-driver-8.16.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/toolfactory/jvm-driver/9.7.1/jvm-driver-9.7.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/toolfactory/narcissus/1.0.7/narcissus-1.0.7.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/javassist/javassist/3.30.2-GA/javassist-3.30.2-GA.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/zone/rong/imaginebreaker/2.1/imaginebreaker-2.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/ibm/icu/icu4j/75.1/icu4j-75.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/jline/jline/3.26.1/jline-3.26.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/java3d/vecmath/1.5.2/vecmath-1.5.2.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/maven/maven-artifact/3.9.7/maven-artifact-3.9.7.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/commons/commons-compress/1.26.2/commons-compress-1.26.2.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/httpcomponents/httpcore/4.4.16/httpcore-4.4.16.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/6.5.0/oshi-core-6.5.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna/5.14.0/jna-5.14.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/net/java/dev/jna/jna-platform/5.14.0/jna-platform-5.14.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/it/unimi/dsi/fastutil/8.5.13/fastutil-8.5.13.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-io/commons-io/2.16.1/commons-io-2.16.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/commons-logging/commons-logging/1.3.1/commons-logging-1.3.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/guava/guava/33.2.1-jre/guava-33.2.1-jre.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec/4.1.110.Final/netty-codec-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-buffer/4.1.110.Final/netty-buffer-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-common/4.1.110.Final/netty-common-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-handler/4.1.110.Final/netty-handler-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver/4.1.110.Final/netty-resolver-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport/4.1.110.Final/netty-transport-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-unix-common/4.1.110.Final/netty-transport-native-unix-common-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-classes-epoll/4.1.110.Final/netty-transport-classes-epoll-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-transport-native-epoll/4.1.110.Final/netty-transport-native-epoll-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-http/4.1.110.Final/netty-codec-http-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-http2/4.1.110.Final/netty-codec-http2-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-codec-dns/4.1.110.Final/netty-codec-dns-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/netty/netty-resolver-dns/4.1.110.Final/netty-resolver-dns-4.1.110.Final.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-api/2.23.1/log4j-api-2.23.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-core/2.23.1/log4j-core-2.23.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.23.1/log4j-slf4j2-impl-2.23.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/slf4j/slf4j-api/2.0.13/slf4j-api-2.0.13.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/annotation/jakarta.annotation-api/2.1.1/jakarta.annotation-api-2.1.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/xml/bind/jakarta.xml.bind-api/4.0.2/jakarta.xml.bind-api-4.0.2.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/xml/ws/jakarta.xml.ws-api/4.0.2/jakarta.xml.ws-api-4.0.2.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/jakarta/activation/jakarta.activation-api/2.1.3/jakarta.activation-api-2.1.3.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/glassfish/corba/glassfish-corba-omgapi/4.2.5/glassfish-corba-omgapi-4.2.5.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/io/github/llamalad7/mixinextras-common/0.3.6/mixinextras-common-0.3.6.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/mojang/minecraft/1.12.2/minecraft-1.12.2-client.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/.minecraft/mods/+Fugue-1.12.2-0.15.3.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/.minecraft/mods/1.12.2/cats-free_3-2.10.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/.minecraft/mods/1.12.2/cats-core_3-2.10.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/.minecraft/mods/1.12.2/cats-kernel_3-2.10.0.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/.minecraft/mods/1.12.2/scala3-library_3-3.4.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/.minecraft/mods/1.12.2/scala-library-2.13.13.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/.minecraft/mods/1.12.2/config-1.4.3.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/instances/The%20Vintage%20Pack/.minecraft/mods/scalar-1.12.2-3.4.1.jar for mixin tweaker
+[15:39:32] [main/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Scanning asmgen:/ for mixin tweaker
+[15:39:32] [main/DEBUG] [mixin]: inject() running with 1 agents
+[15:39:32] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentFMLLegacy:ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)]
+[15:39:32] [main/DEBUG] [mixin]: Processing inject() for PlatformAgent[MixinPlatformAgentDefault:ContainerHandleURI(file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/cleanroommc/sponge-mixin/0.19.7+mixin.0.8.5/sponge-mixin-0.19.7+mixin.0.8.5.jar)]
+[15:39:32] [main/INFO] [Foundation]: Calling tweak com.cleanroommc.fugue.common.LateBootstrapTweaker@a09303
+[15:39:32] [main/INFO] [Foundation]: Calling tweak MixinBooter
+[15:39:32] [main/DEBUG] [FML]: Injecting coremod MixinBooter \{net.minecraftforge.fml.relauncher.MixinBooterPlugin\} class transformers
+[15:39:32] [main/DEBUG] [FML]: Injection complete
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin for MixinBooter {net.minecraftforge.fml.relauncher.MixinBooterPlugin}
+[15:39:32] [main/DEBUG] [FML]: Running coremod plugin MixinBooter
+[15:39:32] [main/DEBUG] [mixin]: Checking for additional mixins for MixinEnvironment[PREINIT]
+[15:39:32] [main/DEBUG] [FML]: Coremod plugin class MixinBooterPlugin run successfully
+[15:39:32] [main/INFO] [Foundation]: Calling tweak net.minecraftforge.fml.common.launcher.FMLDeobfTweaker@60e3c26e
+[15:39:32] [main/DEBUG] [Foundation]: Registering rename transformer: DeobfuscationTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[15:39:32] [main/DEBUG] [FML]: Loaded 215 rules from AccessTransformer config file forge_at.cfg
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[15:39:32] [main/DEBUG] [Foundation]: Registering transformer: net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[15:39:32] [main/DEBUG] [FML]: Validating minecraft
+[15:39:32] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[INIT]
+[15:39:32] [main/DEBUG] [FML]: Minecraft validated, launching...
+[15:39:32] [main/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[DEFAULT]
+[15:39:32] [main/INFO] [Foundation]: Launching wrapped minecraft net.minecraft.client.main.Main
+[15:39:33] [main/DEBUG] [Fugue]: Stripping final modifier of field_72996_f from net.minecraft.world.World
+[15:39:33] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Tsranuna
+[15:39:34] [Client thread/DEBUG] [Fugue]: Stripping final modifier of field_150939_a from net.minecraft.item.ItemBlock
+[15:39:34] [Client thread/DEBUG] [FML]: Creating vanilla freeze snapshot
+[15:39:35] [Client thread/DEBUG] [FML]: Vanilla freeze snapshot created
+[15:39:35] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 3.3.4-snapshot+SNAPSHOT
+[15:39:35] [Client thread/INFO] [STDOUT]: [org.lwjgl.opengl.Display:create:90]: TODO: Implement Display.create(PixelFormat)
+[15:39:35] [Client thread/WARN] [oshi.util.FileUtil]: Configuration conflict: there is more than one oshi.properties file on the classpath: [jar:file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/6.5.0/oshi-core-6.5.0.jar!/oshi.properties, jar:file:/C:/Users/xsku/AppData/Roaming/PrismLauncher/libraries/com/github/oshi/oshi-core/6.5.0/oshi-core-6.5.0.jar!/oshi.properties]
+[15:39:36] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - LanguageManager took 0.001s
+[15:39:36] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
+[15:39:36] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 22.0.1, Azul Systems, Inc.
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+	Memory: 3944742912 bytes (3762 MB) / 4294967296 bytes (4096 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 23 total; -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:+UseZGC -XX:AllocatePrefetchStyle=1 -XX:+ZGenerational -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms4096m -Xmx4096m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+MixinBooter (cleanroom-0.2.2-alpha-universal.jar)
+  
+ScalarLoadingPlugin (scalar-1.12.2-3.4.1.jar)
+  
+Fugue (+Fugue-1.12.2-0.15.3.jar)
+  
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.0 Compatibility Profile Context 24.3.1.240216' Renderer: 'AMD Radeon(TM) Graphics'
+[15:39:36] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[15:39:36] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[15:39:36] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[15:39:36] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[15:39:36] [Client thread/DEBUG] [FML]: File C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\config\injectedDependencies.json not found. No dependencies injected
+[15:39:36] [Client thread/DEBUG] [FML]: Building injected Mod Containers [net.minecraftforge.fml.common.FMLContainer, net.minecraftforge.common.ForgeModContainer, com.cleanroommc.scalar.ScalarModContainer, net.minecraftforge.fml.common.MixinContainer]
+[15:39:36] [Client thread/DEBUG] [FML]: Attempting to load mods contained in the minecraft jar file and associated classes
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Local\Programs\PrismLauncher\jars\NewLaunch.jar, examining for mod candidates
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-glfw\3.3.4-27-CLEANROOM\lwjgl3-glfw-3.3.4-27-CLEANROOM.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-jemalloc\3.3.4-27-CLEANROOM\lwjgl3-jemalloc-3.3.4-27-CLEANROOM.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-openal\3.3.4-27-CLEANROOM\lwjgl3-openal-3.3.4-27-CLEANROOM.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-opengl\3.3.4-27-CLEANROOM\lwjgl3-opengl-3.3.4-27-CLEANROOM.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-stb\3.3.4-27-CLEANROOM\lwjgl3-stb-3.3.4-27-CLEANROOM.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-tinyfd\3.3.4-27-CLEANROOM\lwjgl3-tinyfd-3.3.4-27-CLEANROOM.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3\3.3.4-27-CLEANROOM\lwjgl3-3.3.4-27-CLEANROOM.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-glfw\3.3.4-27-CLEANROOM\lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-glfw\3.3.4-27-CLEANROOM\lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-glfw\3.3.4-27-CLEANROOM\lwjgl3-glfw-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-jemalloc\3.3.4-27-CLEANROOM\lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-jemalloc\3.3.4-27-CLEANROOM\lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-jemalloc\3.3.4-27-CLEANROOM\lwjgl3-jemalloc-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-openal\3.3.4-27-CLEANROOM\lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-openal\3.3.4-27-CLEANROOM\lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-openal\3.3.4-27-CLEANROOM\lwjgl3-openal-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-opengl\3.3.4-27-CLEANROOM\lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-opengl\3.3.4-27-CLEANROOM\lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-opengl\3.3.4-27-CLEANROOM\lwjgl3-opengl-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-stb\3.3.4-27-CLEANROOM\lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-stb\3.3.4-27-CLEANROOM\lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-stb\3.3.4-27-CLEANROOM\lwjgl3-stb-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-tinyfd\3.3.4-27-CLEANROOM\lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-tinyfd\3.3.4-27-CLEANROOM\lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3-tinyfd\3.3.4-27-CLEANROOM\lwjgl3-tinyfd-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3\3.3.4-27-CLEANROOM\lwjgl3-3.3.4-27-CLEANROOM-natives-windows-arm64.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3\3.3.4-27-CLEANROOM\lwjgl3-3.3.4-27-CLEANROOM-natives-windows-x86.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\lwjgl3\lwjgl3\3.3.4-27-CLEANROOM\lwjgl3-3.3.4-27-CLEANROOM-natives-windows.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\paulscode\codecjorbis\20101023\codecjorbis-20101023.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\paulscode\codecwav\20101023\codecwav-20101023.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\paulscode\libraryjavasound\20101123\libraryjavasound-20101123.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\paulscode\librarylwjglopenal\20100824\librarylwjglopenal-20100824.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\paulscode\soundsystem\20120107\soundsystem-20120107.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\mojang\authlib\1.5.25\authlib-1.5.25.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\mojang\realms\1.10.22\realms-1.10.22.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\mojang\text2speech\1.10.3\text2speech-1.10.3.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\libraries\cleanroom-0.2.2-alpha-universal.jar, examining for mod candidates
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\ow2\asm\asm\9.7\asm-9.7.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\ow2\asm\asm-commons\9.7\asm-commons-9.7.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\ow2\asm\asm-tree\9.7\asm-tree-9.7.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\ow2\asm\asm-util\9.7\asm-util-9.7.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\ow2\asm\asm-analysis\9.7\asm-analysis-9.7.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\ow2\asm\asm-deprecated\7.1\asm-deprecated-7.1.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\top\outlands\foundation\0.13.7\foundation-0.13.7.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\burningwave\jvm-driver\8.16.1\jvm-driver-8.16.1.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\github\toolfactory\jvm-driver\9.7.1\jvm-driver-9.7.1.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\github\toolfactory\narcissus\1.0.7\narcissus-1.0.7.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\javassist\javassist\3.30.2-GA\javassist-3.30.2-GA.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\zone\rong\imaginebreaker\2.1\imaginebreaker-2.1.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\ibm\icu\icu4j\75.1\icu4j-75.1.jar, examining for mod candidates
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\jline\jline\3.26.1\jline-3.26.1.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\lzma\lzma\0.0.1\lzma-0.0.1.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\java3d\vecmath\1.5.2\vecmath-1.5.2.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\net\sf\trove4j\trove4j\3.0.3\trove4j-3.0.3.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\apache\maven\maven-artifact\3.9.7\maven-artifact-3.9.7.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\apache\commons\commons-compress\1.26.2\commons-compress-1.26.2.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\github\oshi\oshi-core\6.5.0\oshi-core-6.5.0.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\net\java\dev\jna\jna\5.14.0\jna-5.14.0.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\net\java\dev\jna\jna-platform\5.14.0\jna-platform-5.14.0.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\it\unimi\dsi\fastutil\8.5.13\fastutil-8.5.13.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\commons-io\commons-io\2.16.1\commons-io-2.16.1.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\commons-logging\commons-logging\1.3.1\commons-logging-1.3.1.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\google\guava\guava\33.2.1-jre\guava-33.2.1-jre.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar, examining for mod candidates
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar, examining for mod candidates
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-codec\4.1.110.Final\netty-codec-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-buffer\4.1.110.Final\netty-buffer-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-common\4.1.110.Final\netty-common-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-handler\4.1.110.Final\netty-handler-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-resolver\4.1.110.Final\netty-resolver-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-transport\4.1.110.Final\netty-transport-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-transport-native-unix-common\4.1.110.Final\netty-transport-native-unix-common-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-transport-classes-epoll\4.1.110.Final\netty-transport-classes-epoll-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-transport-native-epoll\4.1.110.Final\netty-transport-native-epoll-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-codec-http\4.1.110.Final\netty-codec-http-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-codec-http2\4.1.110.Final\netty-codec-http2-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-codec-dns\4.1.110.Final\netty-codec-dns-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\netty\netty-resolver-dns\4.1.110.Final\netty-resolver-dns-4.1.110.Final.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.23.1\log4j-slf4j2-impl-2.23.1.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\jakarta\annotation\jakarta.annotation-api\2.1.1\jakarta.annotation-api-2.1.1.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\jakarta\xml\bind\jakarta.xml.bind-api\4.0.2\jakarta.xml.bind-api-4.0.2.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\jakarta\xml\ws\jakarta.xml.ws-api\4.0.2\jakarta.xml.ws-api-4.0.2.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\jakarta\activation\jakarta.activation-api\2.1.3\jakarta.activation-api-2.1.3.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\glassfish\corba\glassfish-corba-omgapi\4.2.5\glassfish-corba-omgapi-4.2.5.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\org\openjdk\nashorn\nashorn-core\15.4\nashorn-core-15.4.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\cleanroommc\sponge-mixin\0.19.7+mixin.0.8.5\sponge-mixin-0.19.7+mixin.0.8.5.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\io\github\llamalad7\mixinextras-common\0.3.6\mixinextras-common-0.3.6.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\libraries\com\mojang\minecraft\1.12.2\minecraft-1.12.2-client.jar, examining for mod candidates
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\+Fugue-1.12.2-0.15.3.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-free_3-2.10.0.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-core_3-2.10.0.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-kernel_3-2.10.0.jar, examining for mod candidates
+[15:39:36] [Client thread/DEBUG] [FML]: Found a minecraft related file at C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala3-library_3-3.4.1.jar, examining for mod candidates
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala-library-2.13.13.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\config-1.4.3.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping known library file C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\scalar-1.12.2-3.4.1.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Minecraft jar mods loaded successfully
+[15:39:36] [Client thread/INFO] [FML]: Searching C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods for mods
+[15:39:36] [Client thread/DEBUG] [FML]:   Adding +Fugue-1.12.2-0.15.3.jar to the mod list
+[15:39:36] [Client thread/DEBUG] [FML]:   Adding scalar-1.12.2-3.4.1.jar to the mod list
+[15:39:36] [Client thread/INFO] [FML]: Searching C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2 for mods
+[15:39:36] [Client thread/DEBUG] [FML]:   Adding cats-core_3-2.10.0.jar to the mod list
+[15:39:36] [Client thread/DEBUG] [FML]:   Adding cats-free_3-2.10.0.jar to the mod list
+[15:39:36] [Client thread/DEBUG] [FML]:   Adding cats-kernel_3-2.10.0.jar to the mod list
+[15:39:36] [Client thread/DEBUG] [FML]:   Adding config-1.4.3.jar to the mod list
+[15:39:36] [Client thread/DEBUG] [FML]:   Adding scala-library-2.13.13.jar to the mod list
+[15:39:36] [Client thread/DEBUG] [FML]:   Adding scala3-library_3-3.4.1.jar to the mod list
+[15:39:36] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file +Fugue-1.12.2-0.15.3.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file cats-core_3-2.10.0.jar
+[15:39:36] [Client thread/TRACE] [FML]:   Skipping already in list C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-core_3-2.10.0.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file cats-free_3-2.10.0.jar
+[15:39:36] [Client thread/TRACE] [FML]:   Skipping already in list C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-free_3-2.10.0.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file cats-kernel_3-2.10.0.jar
+[15:39:36] [Client thread/TRACE] [FML]:   Skipping already in list C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\cats-kernel_3-2.10.0.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file config-1.4.3.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file scala-library-2.13.13.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Found a candidate zip or jar file scala3-library_3-3.4.1.jar
+[15:39:36] [Client thread/TRACE] [FML]:   Skipping already in list C:\Users\xsku\AppData\Roaming\PrismLauncher\instances\The Vintage Pack\.minecraft\mods\1.12.2\scala3-library_3-3.4.1.jar
+[15:39:36] [Client thread/TRACE] [FML]: Skipping already parsed coremod or tweaker scalar-1.12.2-3.4.1.jar
+[15:39:36] [Client thread/DEBUG] [FML]: Examining file NewLaunch.jar for potential mods
+[15:39:36] [Client thread/DEBUG] [FML]: The mod container NewLaunch.jar appears to be missing an mcmod.info file
+[15:39:36] [Client thread/DEBUG] [FML]: Examining file cleanroom-0.2.2-alpha-universal.jar for potential mods
+[15:39:36] [Client thread/DEBUG] [FML]: The mod container cleanroom-0.2.2-alpha-universal.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file foundation-0.13.7.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container foundation-0.13.7.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file jvm-driver-8.16.1.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container jvm-driver-8.16.1.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file jvm-driver-9.7.1.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container jvm-driver-9.7.1.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file narcissus-1.0.7.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container narcissus-1.0.7.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file javassist-3.30.2-GA.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container javassist-3.30.2-GA.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file imaginebreaker-2.1.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container imaginebreaker-2.1.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file icu4j-75.1.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container icu4j-75.1.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file failureaccess-1.0.2.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container failureaccess-1.0.2.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file jsr305-3.0.2.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container jsr305-3.0.2.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file log4j-slf4j2-impl-2.23.1.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container log4j-slf4j2-impl-2.23.1.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file slf4j-api-2.0.13.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container slf4j-api-2.0.13.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file jakarta.annotation-api-2.1.1.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container jakarta.annotation-api-2.1.1.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file jakarta.xml.bind-api-4.0.2.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container jakarta.xml.bind-api-4.0.2.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file jakarta.xml.ws-api-4.0.2.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container jakarta.xml.ws-api-4.0.2.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file jakarta.activation-api-2.1.3.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container jakarta.activation-api-2.1.3.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file glassfish-corba-omgapi-4.2.5.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container glassfish-corba-omgapi-4.2.5.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file nashorn-core-15.4.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container nashorn-core-15.4.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file sponge-mixin-0.19.7+mixin.0.8.5.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container sponge-mixin-0.19.7+mixin.0.8.5.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file mixinextras-common-0.3.6.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container mixinextras-common-0.3.6.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file minecraft-1.12.2-client.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container minecraft-1.12.2-client.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file cats-free_3-2.10.0.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container cats-free_3-2.10.0.jar appears to be missing an mcmod.info file
+[15:39:37] [Client thread/DEBUG] [FML]: Examining file cats-core_3-2.10.0.jar for potential mods
+[15:39:37] [Client thread/DEBUG] [FML]: The mod container cats-core_3-2.10.0.jar appears to be missing an mcmod.info file
+[15:39:38] [Client thread/DEBUG] [FML]: Examining file cats-kernel_3-2.10.0.jar for potential mods
+[15:39:38] [Client thread/DEBUG] [FML]: The mod container cats-kernel_3-2.10.0.jar appears to be missing an mcmod.info file
+[15:39:38] [Client thread/DEBUG] [FML]: Examining file scala3-library_3-3.4.1.jar for potential mods
+[15:39:38] [Client thread/DEBUG] [FML]: The mod container scala3-library_3-3.4.1.jar appears to be missing an mcmod.info file
+[15:39:38] [Client thread/DEBUG] [FML]: Examining file +Fugue-1.12.2-0.15.3.jar for potential mods
+[15:39:38] [Client thread/TRACE] [FML]: Located mcmod.info file in file +Fugue-1.12.2-0.15.3.jar
+[15:39:38] [Client thread/DEBUG] [FML]: Identified a mod of type Lnet/minecraftforge/fml/common/Mod; (com.cleanroommc.fugue.common.Fugue) - loading
+[15:39:38] [Client thread/TRACE] [FML]: Using registered custom language adapter null for com.cleanroommc.fugue.common.Fugue (modid: fugue)
+[15:39:38] [Client thread/TRACE] [FML]: Parsed dependency info for fugue: Requirements: [cleanroom@[0.2.2-alpha,), forge@[14.23.5.2847,)] After:[forge@[14.23.5.2847,), cleanroom@[0.2.2-alpha,)] Before:[]
+[15:39:38] [Client thread/DEBUG] [FML]: Examining file config-1.4.3.jar for potential mods
+[15:39:38] [Client thread/DEBUG] [FML]: The mod container config-1.4.3.jar appears to be missing an mcmod.info file
+[15:39:38] [Client thread/DEBUG] [FML]: Examining file scala-library-2.13.13.jar for potential mods
+[15:39:38] [Client thread/DEBUG] [FML]: The mod container scala-library-2.13.13.jar appears to be missing an mcmod.info file
+[15:39:38] [Client thread/INFO] [FML]: Forge Mod Loader has identified 9 mods to load
+[15:39:38] [Client thread/TRACE] [FML]: Received a system property request ''
+[15:39:38] [Client thread/TRACE] [FML]: System property request managing the state of 0 mods
+[15:39:38] [Client thread/DEBUG] [FML]: After merging, found state information for 0 mods
+[15:39:38] [Client thread/DEBUG] [FML]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[15:39:38] [Client thread/DEBUG] [FML]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[15:39:38] [Client thread/WARN] [FML]: Mod scalar has been disabled through configuration
+[15:39:38] [Client thread/DEBUG] [FML]: Enabling mod fugue
+[15:39:38] [Client thread/TRACE] [FML]: Verifying mod requirements are satisfied
+[15:39:38] [Client thread/TRACE] [FML]: All mod requirements are satisfied
+[15:39:38] [Client thread/TRACE] [FML]: Sorting mods into an ordered list
+[15:39:38] [Client thread/TRACE] [FML]: Mod sorting completed successfully
+[15:39:38] [Client thread/DEBUG] [FML]: Mod sorting data
+[15:39:38] [Client thread/DEBUG] [FML]: 	fugue(Fugue:1.12.2-0.15.3): +Fugue-1.12.2-0.15.3.jar (required-after:forge@[14.23.5.2847,);required-after:cleanroom@[0.2.2-alpha,);)
+[15:39:38] [Client thread/INFO] [FML]: FML has found a non-mod file config-1.4.3.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:39:38] [Client thread/INFO] [FML]: FML has found a non-mod file scala-library-2.13.13.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[15:39:38] [Client thread/DEBUG] [FML]: Loading @Config anotation data
+[15:39:38] [Client thread/INFO] [MixinBooter]: Instantiating all ILateMixinLoader implemented classes...
+[15:39:38] [Client thread/INFO] [MixinBooter]: Instantiating all ILateMixinLoader implemented classes...
+[15:39:38] [Client thread/INFO] [MixinBooter]: Instantiating class com.cleanroommc.fugue.common.FugueLateMixinLoader for its mixins.
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod minecraft
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod minecraft
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Construction - Minecraft took 0.001s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mcp
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mcp
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Coder Pack took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod configanytime
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod configanytime
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Construction - ConfigAnytime took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod cleanroom
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod cleanroom
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Construction - Cleanroom took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod FML
+[15:39:38] [Client thread/DEBUG] [mixin]: Preparing mixins for MixinEnvironment[MOD]
+[15:39:38] [Client thread/DEBUG] [mixin]: Selecting config fugue.mixin.mod.json
+[15:39:38] [Client thread/WARN] [mixin]: Reference map 'fugue.mixin.refmap.json' for fugue.mixin.mod.json could not be read. If this is a development environment you can ignore this message
+[15:39:38] [Client thread/DEBUG] [mixin]: Preparing fugue.mixin.mod.json (28)
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Rebuilding transformer delegation list:
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Found name transformer: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Excluding: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Excluding: org.spongepowered.asm.mixin.transformer.Proxy
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]:   Adding:    net.minecraftforge.fml.common.asm.transformers.ModAPITransformer
+[15:39:38] [Client thread/DEBUG] [org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper]: Transformer delegation list created with 12 entries
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.logging.InternalLoggerFactory]: Using SLF4J as the default logging framework
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: -Dio.netty.noUnsafe: false
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: Java version: 22
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: sun.misc.Unsafe.theUnsafe: available
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: sun.misc.Unsafe.copyMemory: available
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: sun.misc.Unsafe.storeFence: available
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: java.nio.Buffer.address: available
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: direct buffer constructor: unavailable
+java.lang.UnsupportedOperationException: Reflective setAccessible(true) disabled
+	at io.netty.util.internal.ReflectionUtil.trySetAccessible(ReflectionUtil.java:31) ~[netty-common-4.1.110.Final.jar:4.1.110.Final]
+	at io.netty.util.internal.PlatformDependent0$5.run(PlatformDependent0.java:293) ~[netty-common-4.1.110.Final.jar:4.1.110.Final]
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:319) ~[?:?]
+	at io.netty.util.internal.PlatformDependent0.<clinit>(PlatformDependent0.java:286) ~[netty-common-4.1.110.Final.jar:4.1.110.Final]
+	at io.netty.util.internal.PlatformDependent.isAndroid(PlatformDependent.java:333) ~[netty-common-4.1.110.Final.jar:4.1.110.Final]
+	at io.netty.util.internal.PlatformDependent.<clinit>(PlatformDependent.java:88) ~[netty-common-4.1.110.Final.jar:4.1.110.Final]
+	at io.netty.util.ConstantPool.<init>(ConstantPool.java:34) ~[netty-common-4.1.110.Final.jar:4.1.110.Final]
+	at io.netty.util.AttributeKey$1.<init>(AttributeKey.java:27) ~[netty-common-4.1.110.Final.jar:4.1.110.Final]
+	at io.netty.util.AttributeKey.<clinit>(AttributeKey.java:27) ~[netty-common-4.1.110.Final.jar:4.1.110.Final]
+	at net.minecraftforge.fml.common.network.NetworkRegistry.<clinit>(NetworkRegistry.java:69) ~[cleanroom-0.2.2-alpha-universal.jar:?]
+	at net.minecraftforge.fml.common.FMLContainer.modConstruction(FMLContainer.java:91) ~[cleanroom-0.2.2-alpha-universal.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:270) ~[guava-33.2.1-jre.jar:?]
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:303) ~[cleanroom-0.2.2-alpha-universal.jar:?]
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:281) ~[cleanroom-0.2.2-alpha-universal.jar:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:85) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:142) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.Subscriber.lambda$dispatchEvent$0(Subscriber.java:71) ~[guava-33.2.1-jre.jar:?]
+	at com.google.common.util.concurrent.DirectExecutor.execute(DirectExecutor.java:31) [guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:68) [guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:111) [guava-33.2.1-jre.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:270) [guava-33.2.1-jre.jar:?]
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:217) [LoadController.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:600) [Loader.class:?]
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:231) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467) [bib.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378) [bib.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:123) [Main.class:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119) [LaunchHandler.class:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at top.outlands.foundation.boot.Foundation.main(Foundation.java:41) [foundation-0.13.7.jar:?]
+	at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:100) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) [NewLaunch.jar:?]
+	at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) [NewLaunch.jar:?]
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: java.nio.Bits.unaligned: available, true
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: jdk.internal.misc.Unsafe.allocateUninitializedArray(int): available
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent0]: java.nio.DirectByteBuffer.<init>(long, {int,long}): unavailable
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent]: sun.misc.Unsafe: available
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent]: -Dio.netty.tmpdir: C:\Users\xsku\AppData\Local\Temp (java.io.tmpdir)
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent]: -Dio.netty.bitMode: 64 (sun.arch.data.model)
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent]: Platform: Windows
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent]: -Dio.netty.maxDirectMemory: -1 bytes
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent]: -Dio.netty.uninitializedArrayAllocationThreshold: 1024
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.CleanerJava9]: java.nio.ByteBuffer.cleaner(): available
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.PlatformDependent]: -Dio.netty.noPreferDirect: false
+[15:39:38] [Client thread/TRACE] [FML]: Mod FML is using network checker : Invoking method checkModLists
+[15:39:38] [Client thread/TRACE] [FML]: Testing mod FML to verify it accepts its own version in a remote connection
+[15:39:38] [Client thread/TRACE] [FML]: The mod FML accepts its own version (8.0.99.99)
+[15:39:38] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, configanytime, cleanroom, FML, forge, mixinbooter, fugue] at CLIENT
+[15:39:38] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, configanytime, cleanroom, FML, forge, mixinbooter, fugue] at SERVER
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.InternalThreadLocalMap]: -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+[15:39:38] [Client thread/DEBUG] [io.netty.util.internal.InternalThreadLocalMap]: -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+[15:39:38] [Client thread/DEBUG] [io.netty.util.ResourceLeakDetector]: -Dio.netty.leakDetection.level: simple
+[15:39:38] [Client thread/DEBUG] [io.netty.util.ResourceLeakDetector]: -Dio.netty.leakDetection.targetRecords: 4
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.numHeapArenas: 32
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.numDirectArenas: 32
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.pageSize: 8192
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.maxOrder: 9
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.chunkSize: 4194304
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.smallCacheSize: 256
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.normalCacheSize: 64
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.cacheTrimInterval: 8192
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.useCacheForAllThreads: false
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.PooledByteBufAllocator]: -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.ByteBufUtil]: -Dio.netty.allocator.type: pooled
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.ByteBufUtil]: -Dio.netty.threadLocalDirectBufferSize: 0
+[15:39:38] [Client thread/DEBUG] [io.netty.buffer.ByteBufUtil]: -Dio.netty.maxThreadLocalCharBufferSize: 16384
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod FML
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Construction - Forge Mod Loader took 0.197s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod forge
+[15:39:38] [Client thread/DEBUG] [forge]: Loading Vanilla annotations: null
+[15:39:38] [Client thread/DEBUG] [forge]: Preloading CrashReport Classes
+[15:39:38] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable
+[15:39:38] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Alignment
+[15:39:38] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Column
+[15:39:38] [Client thread/DEBUG] [forge]: 	net/minecraftforge/common/util/TextTable$Row
+[15:39:38] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/client/SplashProgress$1
+[15:39:38] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/FMLCommonHandler$1
+[15:39:38] [Client thread/DEBUG] [forge]: 	net/minecraftforge/fml/common/Loader$1
+[15:39:38] [Client thread/TRACE] [FML]: Mod forge is using network checker : No network checking performed
+[15:39:38] [Client thread/TRACE] [FML]: Testing mod forge to verify it accepts its own version in a remote connection
+[15:39:38] [Client thread/TRACE] [FML]: The mod forge accepts its own version (14.23.5.2860)
+[15:39:38] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into forge for type INSTANCE
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod forge
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Construction - Minecraft Forge took 0.014s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod mixinbooter
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod mixinbooter
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Construction - MixinBooter took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLConstructionEvent to mod fugue
+[15:39:38] [Client thread/TRACE] [FML]: Mod fugue is using network checker : Invoking method checker
+[15:39:38] [Client thread/TRACE] [FML]: Testing mod fugue to verify it accepts its own version in a remote connection
+[15:39:38] [Client thread/TRACE] [FML]: The mod fugue accepts its own version (1.12.2-0.15.3)
+[15:39:38] [Client thread/DEBUG] [FML]: Attempting to inject @SidedProxy classes into fugue
+[15:39:38] [Client thread/DEBUG] [FML]: Attempting to inject @EventBusSubscriber classes into the eventbus for fugue
+[15:39:38] [Client thread/DEBUG] [FML]: Attempting to inject @Config classes into fugue for type INSTANCE
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLConstructionEvent to mod fugue
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Construction - Fugue took 0.010s
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Finished: Construction took 0.223s
+[15:39:38] [Client thread/DEBUG] [FML]: Mod signature data
+[15:39:38] [Client thread/DEBUG] [FML]:  	Valid Signatures:
+[15:39:38] [Client thread/DEBUG] [FML]:  	Missing Signatures:
+[15:39:38] [Client thread/DEBUG] [FML]: 		minecraft	(Minecraft	1.12.2)	minecraft.jar
+[15:39:38] [Client thread/DEBUG] [FML]: 		mcp	(Minecraft Coder Pack	9.42)	minecraft.jar
+[15:39:38] [Client thread/DEBUG] [FML]: 		configanytime	(ConfigAnytime	3.0)	cleanroom-0.2.2-alpha-universal.jar
+[15:39:38] [Client thread/DEBUG] [FML]: 		cleanroom	(Cleanroom	0.2.2-alpha)	cleanroom-0.2.2-alpha-universal.jar
+[15:39:38] [Client thread/DEBUG] [FML]: 		FML	(Forge Mod Loader	8.0.99.99)	cleanroom-0.2.2-alpha-universal.jar
+[15:39:38] [Client thread/DEBUG] [FML]: 		forge	(Minecraft Forge	14.23.5.2860)	cleanroom-0.2.2-alpha-universal.jar
+[15:39:38] [Client thread/DEBUG] [FML]: 		mixinbooter	(MixinBooter	10.0)	cleanroom-0.2.2-alpha-universal.jar
+[15:39:38] [Client thread/DEBUG] [FML]: 		fugue	(Fugue	1.12.2-0.15.3)	+Fugue-1.12.2-0.15.3.jar
+[15:39:38] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Fugue
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - Default took 0.002s
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Forge Mod Loader took 0.001s
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Minecraft Forge took 0.001s
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - FMLFileResourcePack:Fugue took 0.000s
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Finished: Reloading - LanguageManager took 0.039s
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: Loading Resources - Reloading listeners took 0.040s
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resources took 0.045s
+[15:39:38] [Client thread/DEBUG] [FML]: Mod Forge Mod Loader is missing a pack.mcmeta file, substituting a dummy one
+[15:39:38] [Client thread/DEBUG] [FML]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
+[15:39:38] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[15:39:38] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[15:39:38] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[15:39:38] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod minecraft
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod minecraft
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mcp
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mcp
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Coder Pack took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod configanytime
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod configanytime
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - ConfigAnytime took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod cleanroom
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod cleanroom
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Cleanroom took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod FML
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod FML
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Forge Mod Loader took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod forge
+[15:39:38] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod forge
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Minecraft Forge took 0.032s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod mixinbooter
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod mixinbooter
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - MixinBooter took 0.000s
+[15:39:38] [Client thread/TRACE] [FML]: Sending event FMLPreInitializationEvent to mod fugue
+[15:39:38] [Client thread/TRACE] [FML]: Sent event FMLPreInitializationEvent to mod fugue
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Step: PreInitialization - Fugue took 0.000s
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Finished: PreInitialization took 0.033s
+[15:39:38] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:38] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:38] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:38] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:38] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:38] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:38] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:38] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:38] [Client thread/INFO] [FML]: Injecting itemstacks
+[15:39:38] [Client thread/INFO] [FML]: Itemstack injection complete
+[15:39:38] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - TextureManager took 0.000s
+[15:39:38] [Thread-1/INFO] [FML]: Using sync timing. 200 frames of Display.update took 186164200 nanos
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading sounds took 0.407s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - SoundHandler took 0.416s
+[15:39:39] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRenderer took 0.003s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FontRenderer took 0.003s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - GrassColorReloadListener took 0.007s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - FoliageColorReloadListener took 0.005s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - GL Setup took 0.000s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Texture Map took 0.004s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - B3DLoader took 0.000s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - OBJLoader took 0.000s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelFluid$FluidLoader took 0.000s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ItemLayerModel$Loader took 0.000s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - MultiLayerModel$Loader took 0.000s
+[15:39:39] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelDynBucket$LoaderDynBucket took 0.000s
+[15:39:39] [Thread-3/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[15:39:39] [Thread-3/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:39:39] [Thread-3/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[15:39:39] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[15:39:40] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: blocks took 1.256s
+[15:39:41] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: items took 0.657s
+[15:39:41] [Client thread/INFO] [FML]: Max texture size: 16384
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Texture stitching took 1.923s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Texture stitching took 0.015s
+[15:39:43] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Texture creation took 0.018s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Texture mipmap and upload took 0.007s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: ModelLoader: baking took 0.255s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - ModelManager took 4.193s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Model Manager took 4.227s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - RenderItem took 0.004s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Item Renderer took 0.111s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - EntityRenderer took 0.000s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - BlockRendererDispatcher took 0.000s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - RenderGlobal took 0.000s
+[15:39:43] [Client thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom]: -Dio.netty.initialSeedUniquifier: 0x3906c60a53827180
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - SearchTreeManager took 0.062s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Rendering Setup - Loading Entity Renderer took 0.196s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Rendering Setup took 4.539s
+[15:39:43] [Client thread/INFO] [FML]: Applying holder lookups
+[15:39:43] [Client thread/INFO] [FML]: Holder lookups applied
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod minecraft
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod minecraft
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod mcp
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod mcp
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Coder Pack took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod configanytime
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod configanytime
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Initialization - ConfigAnytime took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod cleanroom
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod cleanroom
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Cleanroom took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod FML
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod FML
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Forge Mod Loader took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod forge
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod forge
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Minecraft Forge took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod mixinbooter
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod mixinbooter
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Initialization - MixinBooter took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLInitializationEvent to mod fugue
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLInitializationEvent to mod fugue
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: Initialization - Fugue took 0.000s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: Initialization took 0.001s
+[15:39:43] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod minecraft
+[15:39:43] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod minecraft
+[15:39:43] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod minecraft
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft took 0.001s
+[15:39:43] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod mcp
+[15:39:43] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod mcp
+[15:39:43] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod mcp
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Coder Pack took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod configanytime
+[15:39:43] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod configanytime
+[15:39:43] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod configanytime
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - ConfigAnytime took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod cleanroom
+[15:39:43] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod cleanroom
+[15:39:43] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod cleanroom
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Cleanroom took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod FML
+[15:39:43] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod FML
+[15:39:43] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod FML
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Forge Mod Loader took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod forge
+[15:39:43] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod forge
+[15:39:43] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod forge
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Minecraft Forge took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod mixinbooter
+[15:39:43] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod mixinbooter
+[15:39:43] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod mixinbooter
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - MixinBooter took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Attempting to deliver 0 IMC messages to mod fugue
+[15:39:43] [Client thread/TRACE] [FML]: Sending event IMCEvent to mod fugue
+[15:39:43] [Client thread/TRACE] [FML]: Sent event IMCEvent to mod fugue
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: InterModComms$IMC - Fugue took 0.000s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: InterModComms$IMC took 0.002s
+[15:39:43] [Client thread/INFO] [FML]: Injecting itemstacks
+[15:39:43] [Client thread/INFO] [FML]: Itemstack injection complete
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod minecraft
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod minecraft
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod mcp
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod mcp
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod configanytime
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod configanytime
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - ConfigAnytime took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod cleanroom
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod cleanroom
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Cleanroom took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod FML
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod FML
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Forge Mod Loader took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod forge
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod forge
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Minecraft Forge took 0.007s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod mixinbooter
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod mixinbooter
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - MixinBooter took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLPostInitializationEvent to mod fugue
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLPostInitializationEvent to mod fugue
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: PostInitialization - Fugue took 0.000s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: PostInitialization took 0.008s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod minecraft
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod minecraft
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod mcp
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod mcp
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Coder Pack took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod configanytime
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod configanytime
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - ConfigAnytime took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod cleanroom
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod cleanroom
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Cleanroom took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod FML
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod FML
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Forge Mod Loader took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod forge
+[15:39:43] [Client thread/DEBUG] [FML]: Forge RecipeSorter Baking:
+[15:39:43] [Client thread/DEBUG] [FML]:   16: RecipeEntry("Before", UNKNOWN, )
+[15:39:43] [Client thread/DEBUG] [FML]:   15: RecipeEntry("minecraft:shaped", SHAPED, net.minecraft.item.crafting.ShapedRecipes) Before: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   14: RecipeEntry("forge:shapedore", SHAPED, net.minecraftforge.oredict.ShapedOreRecipe) Before: minecraft:shapeless After: minecraft:shaped
+[15:39:43] [Client thread/DEBUG] [FML]:   13: RecipeEntry("minecraft:mapextending", SHAPED, net.minecraft.item.crafting.RecipesMapExtending) Before: minecraft:shapeless After: minecraft:shaped
+[15:39:43] [Client thread/DEBUG] [FML]:   12: RecipeEntry("minecraft:shapeless", SHAPELESS, net.minecraft.item.crafting.ShapelessRecipes) After: minecraft:shaped
+[15:39:43] [Client thread/DEBUG] [FML]:   11: RecipeEntry("minecraft:repair", SHAPELESS, net.minecraft.item.crafting.RecipeRepairItem) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   10: RecipeEntry("minecraft:shield_deco", SHAPELESS, net.minecraft.item.crafting.ShieldRecipes$Decoration) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   9: RecipeEntry("minecraft:armordyes", SHAPELESS, net.minecraft.item.crafting.RecipesArmorDyes) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   8: RecipeEntry("minecraft:fireworks", SHAPELESS, net.minecraft.item.crafting.RecipeFireworks) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   7: RecipeEntry("minecraft:pattern_dupe", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeDuplicatePattern) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   6: RecipeEntry("minecraft:tippedarrow", SHAPELESS, net.minecraft.item.crafting.RecipeTippedArrow) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   5: RecipeEntry("minecraft:mapcloning", SHAPELESS, net.minecraft.item.crafting.RecipesMapCloning) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   4: RecipeEntry("forge:shapelessore", SHAPELESS, net.minecraftforge.oredict.ShapelessOreRecipe) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   3: RecipeEntry("minecraft:pattern_add", SHAPELESS, net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   2: RecipeEntry("minecraft:bookcloning", SHAPELESS, net.minecraft.item.crafting.RecipeBookCloning) After: minecraft:shapeless
+[15:39:43] [Client thread/DEBUG] [FML]:   1: RecipeEntry("After", UNKNOWN, )
+[15:39:43] [Client thread/DEBUG] [FML]: Sorting recipes
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod forge
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Minecraft Forge took 0.003s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod mixinbooter
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod mixinbooter
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - MixinBooter took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLLoadCompleteEvent to mod fugue
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLLoadCompleteEvent to mod fugue
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: LoadComplete - Fugue took 0.000s
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Finished: LoadComplete took 0.004s
+[15:39:43] [Client thread/DEBUG] [FML]: Freezing registries
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod minecraft
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod minecraft
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mcp
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mcp
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Coder Pack took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod configanytime
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod configanytime
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - ConfigAnytime took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod cleanroom
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod cleanroom
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Cleanroom took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod FML
+[15:39:43] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod FML
+[15:39:43] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Forge Mod Loader took 0.000s
+[15:39:43] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod forge
+[15:39:44] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod forge
+[15:39:44] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Minecraft Forge took 0.108s
+[15:39:44] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod mixinbooter
+[15:39:44] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod mixinbooter
+[15:39:44] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - MixinBooter took 0.000s
+[15:39:44] [Client thread/TRACE] [FML]: Sending event FMLModIdMappingEvent to mod fugue
+[15:39:44] [Client thread/TRACE] [FML]: Sent event FMLModIdMappingEvent to mod fugue
+[15:39:44] [Client thread/DEBUG] [FML]: Bar Step: ModIdMapping - Fugue took 0.000s
+[15:39:44] [Client thread/DEBUG] [FML]: Bar Finished: ModIdMapping took 0.109s
+[15:39:44] [Client thread/DEBUG] [FML]: All registries frozen
+[15:39:44] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 9 mods
+[15:39:44] [Client thread/DEBUG] [FML]: Bar Finished: Loading took 7.845s
+[15:39:44] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[15:39:44] [Client thread/DEBUG] [FML]: Bar Finished: Loading Resource - CloudRenderer took 0.004s
+[15:40:13] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[15:40:13] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[15:40:13] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com

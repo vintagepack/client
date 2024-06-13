@@ -1,0 +1,8 @@
+config/loliASM/
+logs/
+mods/.index
+saves/
+screenshots/
+server-resource-packs/
+usercache.json
+usernamecache.json
