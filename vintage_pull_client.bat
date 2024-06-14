@@ -10,11 +10,10 @@ git init .
 git remote get-url origin 2>nul || git remote add origin %GIT_REPO%
 
 if /i "%CONFIRM%"=="y" (
-	git clean -fdx
-	
 	git fetch origin
 	git switch main
 	git reset --hard origin/main
+	git clean -fdx
 ) else (
 	echo You have cancelled updating.
 	pause
