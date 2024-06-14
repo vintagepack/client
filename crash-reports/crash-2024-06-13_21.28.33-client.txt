@@ -1,0 +1,127 @@
+---- Minecraft Crash Report ----
+// Lolis deobfuscated this stacktrace using MCP's stable-39 mappings.
+// You're mean.
+
+Time: 2024-06-13 21:28:33 CDT
+Description: Initializing game
+
+java.lang.UnsatisfiedLinkError: 'long org.lwjgl.opengl.CallbackUtil.ncreateGlobalRef(java.lang.Object)'
+    at org.lwjgl.opengl.CallbackUtil.ncreateGlobalRef(Native Method)
+    at org.lwjgl.opengl.CallbackUtil.createGlobalRef(CallbackUtil.java:61)
+    at org.lwjgl.opengl.GL43.glDebugMessageCallback(GL43.java:304)
+    at meldexun.renderlib.opengl.debug.OpenGLDebugMode$1.enable(OpenGLDebugMode.java:26)
+    at meldexun.renderlib.opengl.debug.OpenGLDebugMode.setupDebugOutput(OpenGLDebugMode.java:350)
+    at net.minecraft.client.Minecraft.handler$zzi000$init_finishMinecraftLoading(Minecraft.java:3358)
+    at net.minecraft.client.Minecraft.init(Minecraft.java:535)
+    at net.minecraft.client.Minecraft.run(Minecraft.java:5586)
+    at net.minecraft.client.main.Main.main(SourceFile:123)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke(Method.java:580)
+    at top.outlands.foundation.LaunchHandler.launch(LaunchHandler.java:119)
+    at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+    at java.lang.reflect.Method.invoke(Method.java:580)
+    at top.outlands.foundation.boot.Foundation.main(Foundation.java:41)
+    at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:100)
+    at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129)
+    at org.prismlauncher.EntryPoint.main(EntryPoint.java:70)
+
+(MixinBooter) Mixins in Stacktrace:
+    net.minecraft.client.Minecraft:
+        zone.rong.loliasm.client.screenshot.mixins.MinecraftMixin (mixins.screenshot.json)
+        io.github.lxgaming.sledgehammer.mixin.core.client.MinecraftMixin (mixins.sledgehammer.core.json)
+        zone.rong.loliasm.common.crashes.mixins.MinecraftMixin (mixins.crashes.json)
+        meldexun.renderlib.mixin.debug.MixinMinecraft (mixins.renderlib.json)
+        io.github.lxgaming.sledgehammer.mixin.core.client.MinecraftAccessor (mixins.sledgehammer.core.json)
+        zone.rong.loliasm.client.mcfixes.mixins.mc186052.MinecraftMixin (mixins.fix_mc186052.json)
+        meldexun.renderlib.mixin.MixinMinecraft (mixins.renderlib.json)
+        zone.rong.loliasm.client.searchtree.mixins.vanilla.MinecraftMixin (mixins.searchtree_vanilla.json)
+        dev.redstudio.alfheim.mixin.client.MinecraftMixin (mixins.alfheim.json)
+        mod.acgaming.universaltweaks.tweaks.misc.buttons.snooper.mixin.UTSnooperClient (mixins.tweaks.misc.buttons.snooper.client.json)
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+  Minecraft Version: 1.12.2
+  Operating System: Windows 10 (amd64) version 10.0
+  Java Version: 22.0.1, Azul Systems, Inc.
+  Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Azul Systems, Inc.
+  Memory: 960495616 bytes (916 MB) / 4294967296 bytes (4096 MB) up to 4294967296 bytes (4096 MB)
+  JVM Flags: 23 total; -XX:+UnlockExperimentalVMOptions -XX:+UnlockDiagnosticVMOptions -XX:+AlwaysPreTouch -XX:+DisableExplicitGC -XX:NmethodSweepActivity=1 -XX:ReservedCodeCacheSize=400M -XX:NonNMethodCodeHeapSize=12M -XX:ProfiledCodeHeapSize=194M -XX:NonProfiledCodeHeapSize=194M -XX:-DontCompileHugeMethods -XX:MaxNodeLimit=240000 -XX:NodeLimitFudgeFactor=8000 -XX:+UseVectorCmov -XX:+PerfDisableSharedMem -XX:+UseFastUnorderedTimeStamps -XX:+UseCriticalJavaThreadPriority -XX:ThreadPriorityPolicy=1 -XX:+UseZGC -XX:AllocatePrefetchStyle=1 -XX:+ZGenerational -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms4096m -Xmx4096m
+  IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+  FML: MCP 9.42 LoliASM 5.20 VintageFix 0.5.0 Cleanroom 0.2.2-alpha 25 mods loaded, 0 mods active
+       States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+       
+       | State | ID               | Version            | Source                                  | Signature |
+       |:----- |:---------------- |:------------------ |:--------------------------------------- |:--------- |
+       |       | minecraft        | 1.12.2             | minecraft.jar                           | None      |
+       |       | mcp              | 9.42               | minecraft.jar                           | None      |
+       |       | configanytime    | 3.0                | cleanroom-0.2.2-alpha-universal.jar     | None      |
+       |       | cleanroom        | 0.2.2-alpha        | cleanroom-0.2.2-alpha-universal.jar     | None      |
+       |       | FML              | 8.0.99.99          | cleanroom-0.2.2-alpha-universal.jar     | None      |
+       |       | forge            | 14.23.5.2860       | cleanroom-0.2.2-alpha-universal.jar     | None      |
+       |       | scalar           | 3.4.1              | minecraft.jar                           | None      |
+       |       | smoothfontcore   | mc1.12.2-2.1.4     | minecraft.jar                           | None      |
+       |       | mixinbooter      | 10.0               | cleanroom-0.2.2-alpha-universal.jar     | None      |
+       |       | configanytime    | 3.0                | !configanytime-3.0.jar                  | None      |
+       |       | redcore          | 0.6-Dev-5          | !Red-Core-MC-1.8-1.12-0.6-Dev-5.jar     | None      |
+       |       | fugue            | 1.12.2-0.15.3      | +Fugue-1.12.2-0.15.3.jar                | None      |
+       |       | alfheim          | 1.4-Dev-1          | Alfheim-1.4-Dev-1.jar                   | None      |
+       |       | betterbiomeblend | 1.12.2-1.1.7-forge | betterbiomeblend-1.12.2-1.1.7-forge.jar | None      |
+       |       | loliasm          | 5.20               | censoredasm5.20.jar                     | None      |
+       |       | entityculling    | 6.4.3              | EntityCulling-1.12.2-6.4.3.jar          | None      |
+       |       | fpsreducer       | mc1.12.2-1.20      | FpsReducer-mc1.12.2-1.20.jar            | None      |
+       |       | jei              | 4.25.4             | HadEnoughItems_1.12.2-4.25.4.jar        | None      |
+       |       | mousetweaks      | 3.1.4              | mousetweaks-1.12.2-3.1.4.jar            | None      |
+       |       | nothirium        | 0.3.4-beta         | Nothirium-1.12.2-0.3.4-beta.jar         | None      |
+       |       | renderlib        | 1.3.5              | RenderLib-1.12.2-1.3.5.jar              | None      |
+       |       | sledgehammer     | 1.12.2-2.0.26      | Sledgehammer-1.12.2-2.0.26.jar          | None      |
+       |       | smoothfont       | mc1.12.2-2.1.4     | SmoothFont-mc1.12.2-2.1.4.jar           | None      |
+       |       | universaltweaks  | 1.11.0             | UniversalTweaks-1.12.2-1.11.0.jar       | None      |
+       |       | vintagefix       | 0.5.0              | vintagefix-0.5.0.jar                    | None      |
+  Loaded coremods (and transformers): VintageFix (vintagefix-0.5.0.jar)
+                                        org.embeddedt.vintagefix.transformer.ASMModParserTransformer
+                                      UniversalTweaksCore (UniversalTweaks-1.12.2-1.11.0.jar)
+                                        
+                                      ScalarLoadingPlugin (scalar-1.12.2-3.4.1.jar)
+                                        
+                                      EntityCullingPlugin (EntityCulling-1.12.2-6.4.3.jar)
+                                        meldexun.entityculling.asm.EntityCullingClassTransformer
+                                      NothiriumPlugin (Nothirium-1.12.2-0.3.4-beta.jar)
+                                        meldexun.nothirium.mc.asm.NothiriumClassTransformer
+                                      CorePlugin (SmoothFont-mc1.12.2-2.1.4.jar)
+                                        bre.smoothfont.asm.Transformer
+                                      LoliASM (censoredasm5.20.jar)
+                                        
+                                      Fugue (+Fugue-1.12.2-0.15.3.jar)
+                                        
+                                      AlfheimPlugin (Alfheim-1.4-Dev-1.jar)
+                                        
+                                      RenderLibPlugin (RenderLib-1.12.2-1.3.5.jar)
+                                        meldexun.renderlib.asm.RenderLibClassTransformer
+                                      MixinBooter (cleanroom-0.2.2-alpha-universal.jar)
+                                        
+                                      ConfigAnytimePlugin (!configanytime-3.0.jar)
+                                        
+                                      serializationisbad (serializationisbad-1.5.2.jar)
+                                        io.dogboy.serializationisbad.legacyforge.SIBTransformer
+                                      Better Biome Blend (betterbiomeblend-1.12.2-1.1.7-forge.jar)
+                                        
+                                      Red Core (!Red-Core-MC-1.8-1.12-0.6-Dev-5.jar)
+  GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.0 Compatibility Profile Context 24.3.1.240216' Renderer: 'AMD Radeon(TM) Graphics'
+  Suspected Mods: ConfigAnytime (configanytime), Cleanroom (cleanroom), Forge Mod Loader (FML), Minecraft Forge (forge), MixinBooter (mixinbooter), RenderLib (renderlib)
+  Launched Version: 1.12.2
+  LWJGL: 3.3.4-snapshot+SNAPSHOT
+  OpenGL: AMD Radeon(TM) Graphics GL version 4.6.0 Compatibility Profile Context 24.3.1.240216, ATI Technologies Inc.
+  GL Caps: Using GL 1.3 multitexturing.
+           Using GL 1.3 texture combiners.
+           Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+           Shaders are available because OpenGL 2.1 is supported.
+           VBOs are available because OpenGL 1.5 is supported.
+  Using VBOs: Yes
+  Is Modded: Definitely; Client brand changed to 'fml,forge'
+  Type: Client (map_client.txt)
+  Resource Packs: 
+  Current Language: English (US)
+  Profiler Position: N/A (disabled)
+  CPU: 16x AMD Ryzen 9 5900HS with Radeon Graphics
