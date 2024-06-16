@@ -1,0 +1,11 @@
+config/biomesoplenty/biomes/defaults/
+config/loliASM/
+crash-reports/
+logs/
+mods/.index
+saves/
+screenshots/
+vintagefix/
+server-resource-packs/
+usercache.json
+usernamecache.json
