@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.17605634
 fov:0.55
-gamma:0.5
+gamma:1.0
 saturation:0.0
 renderDistance:8
 guiScale:3
@@ -25,11 +25,11 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:true
+fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -142,7 +142,7 @@ key_Zoom:46
 key_variegated.keybinds.offhand:0
 key_Check Slot:25
 soundCategory_master:0.50993377
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5070422
 soundCategory_block:1.0
