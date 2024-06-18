@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:false
@@ -129,7 +129,6 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_tombstone.message.knowledge_of_death:0
 key_nei.options.keys.gui.botania_corporea_request:49
 key_key.cofh.multimode:47
 key_FpsReducer.key.guiOpen:0
