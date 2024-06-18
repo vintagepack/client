@@ -6,12 +6,12 @@ gamma:0.5070422
 saturation:0.0
 renderDistance:8
 guiScale:3
-particles:0
+particles:1
 bobView:false
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:false
@@ -137,16 +137,13 @@ key_FpsReducer.key.forceIdle:0
 key_key.screenshot_viewer.open_screenshots_screen:39
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
-key_key.travelersbackpack.inventory:48
-key_key.travelersbackpack.toggle_tank:49
-key_key.travelersbackpack.cycle_tool:44
 key_keybind.universaltweaks.clear_toasts:0
 key_Open Config:0
 key_Zoom:46
 key_variegated.keybinds.offhand:0
 key_Check Slot:25
 soundCategory_master:0.5596027
-soundCategory_music:0.0
+soundCategory_music:0.5070422
 soundCategory_record:1.0
 soundCategory_weather:0.5070422
 soundCategory_block:1.0
