@@ -4,16 +4,16 @@ mouseSensitivity:0.17605634
 fov:0.55
 gamma:0.5070422
 saturation:0.0
-renderDistance:2
+renderDistance:5
 guiScale:3
 particles:1
 bobView:false
 anaglyph3d:false
-maxFps:60
+maxFps:260
 fboEnable:true
 difficulty:2
 fancyGraphics:false
-ao:0
+ao:1
 renderClouds:false
 resourcePacks:[]
 incompatibleResourcePacks:[]
@@ -133,7 +133,6 @@ key_nei.options.keys.gui.botania_corporea_request:49
 key_key.cofh.multimode:47
 key_FpsReducer.key.guiOpen:0
 key_FpsReducer.key.forceIdle:0
-key_key.screenshot_viewer.open_screenshots_screen:0
 key_keybind.universaltweaks.clear_toasts:0
 key_Open Config:0
 key_Zoom:46
