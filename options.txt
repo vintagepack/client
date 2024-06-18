@@ -142,7 +142,7 @@ key_Open Config:0
 key_Zoom:46
 key_variegated.keybinds.offhand:0
 key_Check Slot:25
-soundCategory_master:0.5066225
+soundCategory_master:0.5596027
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5070422
