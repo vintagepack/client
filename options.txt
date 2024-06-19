@@ -2,12 +2,12 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.17605634
 fov:0.55
-gamma:0.0
+gamma:0.20422535
 saturation:0.0
 renderDistance:8
 guiScale:3
 particles:1
-bobView:false
+bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
@@ -166,7 +166,7 @@ key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_Check Slot:25
-soundCategory_master:0.5529801
+soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5070422
