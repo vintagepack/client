@@ -4,7 +4,7 @@ mouseSensitivity:0.17605634
 fov:0.55
 gamma:0.20422535
 saturation:0.0
-renderDistance:5
+renderDistance:8
 guiScale:3
 particles:1
 bobView:true
@@ -166,15 +166,15 @@ key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_Check Slot:25
-soundCategory_master:0.5562914
-soundCategory_music:0.5
+soundCategory_master:0.5033113
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5070422
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
-soundCategory_player:0.5
-soundCategory_ambient:0.75352114
+soundCategory_player:1.0
+soundCategory_ambient:1.0
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
