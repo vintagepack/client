@@ -1,5 +1,7 @@
-import crafttweaker.item.IItemStack;
 import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDict;
+import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI;
 
 JEI.removeAndHide(<thaumcraft:plate:1>);
@@ -31,3 +33,16 @@ JEI.removeAndHide(<randomthings:plate_collection>);
 JEI.removeAndHide(<randomthings:plate_extraction>);
 
 recipes.remove(<naturescompass:naturescompass>);
+
+<ore:nuggetSilver>.removeItems([<mocreatures:ancientsilvernugget>]);
+<ore:ingotSilver>.removeItems([<mocreatures:ancientsilveringot>]);
+<ore:blockSilver>.removeItems([<mocreatures:ancient_silver_block>]);
+
+JEI.removeAndHide(<biomesoplenty:gem_block:7>);
+JEI.removeAndHide(<biomesoplenty:gem:7>);
+
+JEI.removeAndHide(<biomesoplenty:gem_block:7>);
+JEI.removeAndHide(<biomesoplenty:gem:7>);
+
+JEI.removeAndHide(<biomesoplenty:gem_block:0>);
+JEI.removeAndHide(<biomesoplenty:gem:0>);
