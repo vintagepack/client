@@ -2,16 +2,16 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.17605634
 fov:0.55
-gamma:0.20422535
+gamma:0.0
 saturation:0.0
-renderDistance:8
+renderDistance:5
 guiScale:3
 particles:1
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:fast
@@ -119,7 +119,7 @@ key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
 key_MoCreatures Dive:44
 key_key.jei.toggleOverlay:24:CONTROL
-key_key.jei.focusSearch:33:CONTROL
+key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
 key_key.jei.toggleEditMode:0
 key_key.jei.showRecipe:19
@@ -166,14 +166,14 @@ key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_Check Slot:25
-soundCategory_master:0.5033113
-soundCategory_music:0.0
+soundCategory_master:0.60596025
+soundCategory_music:0.70422536
 soundCategory_record:1.0
-soundCategory_weather:0.5070422
+soundCategory_weather:0.5
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
-soundCategory_player:1.0
+soundCategory_player:0.75352114
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
 modelPart_cape:true
