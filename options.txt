@@ -2,9 +2,9 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.17605634
 fov:0.55
-gamma:1.0
+gamma:0.15492958
 saturation:0.0
-renderDistance:8
+renderDistance:5
 guiScale:3
 particles:1
 bobView:true
@@ -38,7 +38,7 @@ heldItemTooltips:true
 chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
-chatWidth:1.0
+chatWidth:0.62676054
 mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
