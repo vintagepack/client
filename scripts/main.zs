@@ -39,10 +39,4 @@ recipes.remove(<naturescompass:naturescompass>);
 <ore:blockSilver>.removeItems([<mocreatures:ancient_silver_block>]);
 
 JEI.removeAndHide(<biomesoplenty:gem_block:7>);
-JEI.removeAndHide(<biomesoplenty:gem:7>);
-
-JEI.removeAndHide(<biomesoplenty:gem_block:7>);
-JEI.removeAndHide(<biomesoplenty:gem:7>);
-
-JEI.removeAndHide(<biomesoplenty:gem_block:0>);
-JEI.removeAndHide(<biomesoplenty:gem:0>);
+JEI.hide(<biomesoplenty:gem:7>);
