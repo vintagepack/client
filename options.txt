@@ -4,7 +4,7 @@ mouseSensitivity:0.17605634
 fov:0.55
 gamma:1.0
 saturation:0.0
-renderDistance:5
+renderDistance:8
 guiScale:3
 particles:1
 bobView:true
@@ -13,9 +13,9 @@ maxFps:260
 fboEnable:true
 difficulty:3
 fancyGraphics:false
-ao:1
+ao:0
 renderClouds:fast
-resourcePacks:[]
+resourcePacks:["PureBDcraft  64x MC112.zip","Sphax Baubles 64x 1.11.2-1.4.4.zip","Sphax Storage Drawers 64x MC112.zip","Sphax128x_Blood_Magic_Patch_[Beta]_(1.12)_2.4.3-105.zip","Sphax64x_BOP_Ver7.0.1.2408.zip","Sphax64x_Botania_Ver1.9.349.zip","Sphax64x_Quark_Ver1.5-129.zip","Sphax64x_Thaumcraft_MC1.12.zip","Sphax64x_Twilight_Forest_MC1.12.zip","Sphax_CoFHCore_512x-64x.zip","Sphax_JustEnoughItems_512x-64x.zip","Sphax_RedstoneArsenal_64x.zip","Sphax_ThermalCultivation_64x.zip","Sphax_ThermalDynamics_128x.zip","Sphax_ThermalExpansion_64x.zip","Sphax_ThermalFoundation_64x.zip","Sphax_ThermalInnovation_64x.zip","[1.12.2] [64x] Sphax Patch - Nature\u0027s Compass.zip","[128x] Blockcraftery BDCraft - 1.12.zip","[512x - 64x] Better Advancements BDCraft - 1.12.zip","[512x - 64x] Thaumic JEI BDCraft - 1.12.zip","PureBDcraft Technology MC112.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -166,8 +166,8 @@ key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_Check Slot:25
-soundCategory_master:0.5562914
-soundCategory_music:0.75352114
+soundCategory_master:0.6092715
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:0.5
 soundCategory_block:1.0
