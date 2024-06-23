@@ -4,7 +4,7 @@ mouseSensitivity:0.17605634
 fov:0.55
 gamma:1.0
 saturation:0.0
-renderDistance:5
+renderDistance:8
 guiScale:3
 particles:1
 bobView:false
@@ -118,6 +118,15 @@ key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
 key_MoCreatures Dive:44
+key_key.erebus.glide:34
+key_key.erebus.poweredglide:35
+key_key.erebus.beetleram:19
+key_key.erebus.beetlemine:56
+key_key.toggle_focus.desc:15
+key_key.open_wireless_terminal.desc:20:SHIFT
+key_key.open_wireless_crafting_terminal.desc:18:SHIFT
+key_key.open_wireless_pattern_terminal.desc:19:SHIFT
+key_key.open_wireless_fluid_terminal.desc:33:SHIFT
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
@@ -139,8 +148,6 @@ key_waila.keybind.usage:0
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
-key_Speak:47
-key_Gliby's Options Menu:52
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
 key_gui.xaero_toggle_slime:0
@@ -169,13 +176,13 @@ key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_Check Slot:25
 soundCategory_master:0.50993377
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:0.5
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
-soundCategory_player:0.75352114
+soundCategory_player:0.28873238
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
 modelPart_cape:true
