@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:fast
-resourcePacks:["PureBDcraft  64x MC112.zip","PureBDcraft Technology MC112.zip","Sphax Baubles 64x 1.11.2-1.4.4.zip","Sphax Storage Drawers 64x MC112.zip","Sphax128x_Blood_Magic_Patch_[Beta]_(1.12)_2.4.3-105.zip","Sphax64x_BOP_Ver7.0.1.2408.zip","Sphax64x_Botania_Ver1.9.349.zip","Sphax64x_Quark_Ver1.5-129.zip","Sphax64x_Thaumcraft_MC1.12.zip","Sphax64x_Twilight_Forest_MC1.12.zip","Sphax64x_UBC_MC1.12.2.zip","Sphax_CoFHCore_512x-64x.zip","Sphax_JustEnoughItems_512x-64x.zip","Sphax_RedstoneArsenal_64x.zip","Sphax_ThermalCultivation_64x.zip","Sphax_ThermalDynamics_128x.zip","Sphax_ThermalExpansion_64x.zip","Sphax_ThermalFoundation_64x.zip","Sphax_ThermalInnovation_64x.zip","[1.12.2] [64x] Sphax Patch - Nature\u0027s Compass.zip","[128x] Blockcraftery BDCraft - 1.12.zip","[512x - 64x] Better Advancements BDCraft - 1.12.zip","[512x - 64x] Thaumic JEI BDCraft - 1.12.zip"]
+resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
