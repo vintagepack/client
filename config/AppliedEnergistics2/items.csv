@@ -1622,50 +1622,6 @@ thermalexpansion:florb:0, Florb (Empty§r)
 thermalexpansion:florb:1, Magmatic Florb (Empty§r)
 thermalexpansion:morb:0, Morb (Empty§r)
 thermalexpansion:morb:1, Reusable Morb (Empty§r)
-reccomplex:block_selector, Block Selector
-reccomplex:block_selector_floating, Floating Block Selector
-reccomplex:inventory_generation_tag, Loot Generation Tag
-reccomplex:inventory_generation_single_tag, Single Loot Generation Tag
-reccomplex:inventory_generation_component_tag, Loot Table Component Tag
-reccomplex:artifact_generation_tag, Artifact Generation Tag
-reccomplex:book_generation_tag, Book Generation Tag
-reccomplex:generic_space:0, Space (0 ~ Negative Space)
-reccomplex:generic_space:1, Space (1 ~ Natural Air)
-reccomplex:generic_space:2, Space (2)
-reccomplex:generic_space:3, Space (3)
-reccomplex:generic_space:4, Space (4)
-reccomplex:generic_space:5, Space (5)
-reccomplex:generic_space:6, Space (6)
-reccomplex:generic_space:7, Space (7)
-reccomplex:generic_space:8, Space (8)
-reccomplex:generic_space:9, Space (9)
-reccomplex:generic_space:10, Space (10)
-reccomplex:generic_space:11, Space (11)
-reccomplex:generic_space:12, Space (12)
-reccomplex:generic_space:13, Space (13)
-reccomplex:generic_space:14, Space (14)
-reccomplex:generic_space:15, Space (15)
-reccomplex:generic_solid:0, Solid (0 ~ Natural Floor)
-reccomplex:generic_solid:1, Solid (1 ~ Barrier)
-reccomplex:generic_solid:2, Solid (2)
-reccomplex:generic_solid:3, Solid (3)
-reccomplex:generic_solid:4, Solid (4)
-reccomplex:generic_solid:5, Solid (5)
-reccomplex:generic_solid:6, Solid (6)
-reccomplex:generic_solid:7, Solid (7)
-reccomplex:generic_solid:8, Solid (8)
-reccomplex:generic_solid:9, Solid (9)
-reccomplex:generic_solid:10, Solid (10)
-reccomplex:generic_solid:11, Solid (11)
-reccomplex:generic_solid:12, Solid (12)
-reccomplex:generic_solid:13, Solid (13)
-reccomplex:generic_solid:14, Solid (14)
-reccomplex:generic_solid:15, Solid (15)
-reccomplex:structure_generator, Structure Generator
-reccomplex:maze_generator, Maze Generator
-reccomplex:weighted_command_block, tile.spawn_command.name
-reccomplex:spawn_script, Script Block
-reccomplex:inspector, Inspector
 redstonearsenal:storage:0, Fluxed Electrum Block
 redstonearsenal:storage:1, Flux Crystal Block
 redstonearsenal:material:0, Fluxed Electrum Blend
@@ -2372,38 +2328,6 @@ thermaldynamics:cover:0, Light Blue Rockwool Cover
 thermaldynamics:cover:0, Magenta Rockwool Cover
 thermaldynamics:cover:0, Orange Rockwool Cover
 thermaldynamics:cover:0, White Rockwool Cover
-thermaldynamics:cover:0, Space (0 ~ Negative Space) Cover
-thermaldynamics:cover:0, Space (1 ~ Natural Air) Cover
-thermaldynamics:cover:0, Space (2) Cover
-thermaldynamics:cover:0, Space (3) Cover
-thermaldynamics:cover:0, Space (4) Cover
-thermaldynamics:cover:0, Space (5) Cover
-thermaldynamics:cover:0, Space (6) Cover
-thermaldynamics:cover:0, Space (7) Cover
-thermaldynamics:cover:0, Space (8) Cover
-thermaldynamics:cover:0, Space (9) Cover
-thermaldynamics:cover:0, Space (10) Cover
-thermaldynamics:cover:0, Space (11) Cover
-thermaldynamics:cover:0, Space (12) Cover
-thermaldynamics:cover:0, Space (13) Cover
-thermaldynamics:cover:0, Space (14) Cover
-thermaldynamics:cover:0, Space (15) Cover
-thermaldynamics:cover:0, Solid (0 ~ Natural Floor) Cover
-thermaldynamics:cover:0, Solid (1 ~ Barrier) Cover
-thermaldynamics:cover:0, Solid (2) Cover
-thermaldynamics:cover:0, Solid (3) Cover
-thermaldynamics:cover:0, Solid (4) Cover
-thermaldynamics:cover:0, Solid (5) Cover
-thermaldynamics:cover:0, Solid (6) Cover
-thermaldynamics:cover:0, Solid (7) Cover
-thermaldynamics:cover:0, Solid (8) Cover
-thermaldynamics:cover:0, Solid (9) Cover
-thermaldynamics:cover:0, Solid (10) Cover
-thermaldynamics:cover:0, Solid (11) Cover
-thermaldynamics:cover:0, Solid (12) Cover
-thermaldynamics:cover:0, Solid (13) Cover
-thermaldynamics:cover:0, Solid (14) Cover
-thermaldynamics:cover:0, Solid (15) Cover
 thermaldynamics:cover:0, Fluxed Electrum Block Cover
 thermaldynamics:cover:0, Flux Crystal Block Cover
 thermalinnovation:drill:0, Fluxbore (Basic)
@@ -3067,83 +2991,6 @@ quark:glowshroom, tile.glowshroom.name
 quark:glowshroom_block, tile.glowshroom_block.name
 quark:soul_bead, item.soul_bead.name
 quark:smoker, tile.smoker.name
-quark:paper_wall, tile.paper_wall.name
-quark:paper_wall_big, tile.paper_wall_big.name
-quark:paper_wall_sakura, tile.paper_wall_sakura.name
-quark:iron_ladder, tile.iron_ladder.name
-quark:paper_lantern:0, Paper Lamp
-quark:paper_lantern:1, Decorated Paper Lamp
-quark:colored_item_frame:0, White Item Frame
-quark:colored_item_frame:1, Orange Item Frame
-quark:colored_item_frame:2, Magenta Item Frame
-quark:colored_item_frame:3, Light Blue Item Frame
-quark:colored_item_frame:4, Yellow Item Frame
-quark:colored_item_frame:5, Lime Item Frame
-quark:colored_item_frame:6, Pink Item Frame
-quark:colored_item_frame:7, Gray Item Frame
-quark:colored_item_frame:8, Light Gray Item Frame
-quark:colored_item_frame:9, Cyan Item Frame
-quark:colored_item_frame:10, Purple Item Frame
-quark:colored_item_frame:11, Blue Item Frame
-quark:colored_item_frame:12, Brown Item Frame
-quark:colored_item_frame:13, Green Item Frame
-quark:colored_item_frame:14, Red Item Frame
-quark:colored_item_frame:15, Black Item Frame
-quark:rope, tile.rope.name
-quark:blaze_lantern, tile.blaze_lantern.name
-quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
-quark:grate, tile.grate.name
-quark:glass_item_frame, item.glass_item_frame.name
-quark:witch_hat, item.witch_hat.name
-quark:pickarang, item.pickarang.name
-quark:arrow_ender, item.arrow_ender.name
-quark:arrow_explosive, item.arrow_explosive.name
-quark:arrow_torch, item.arrow_torch.name
-quark:slime_bucket:0, Slime in a Bucket
-quark:rune:0, White Rune
-quark:rune:1, Orange Rune
-quark:rune:2, Magenta Rune
-quark:rune:3, Light Blue Rune
-quark:rune:4, Yellow Rune
-quark:rune:5, Lime Rune
-quark:rune:6, Pink Rune
-quark:rune:7, Gray Rune
-quark:rune:8, Light Gray Rune
-quark:rune:9, Cyan Rune
-quark:rune:10, Purple Rune
-quark:rune:11, Blue Rune
-quark:rune:12, Brown Rune
-quark:rune:13, Green Rune
-quark:rune:14, Red Rune
-quark:rune:15, Black Rune
-quark:rune:16, Rainbow Rune
-quark:black_ash, tile.black_ash.name
-quark:ancient_tome, item.ancient_tome.name
-quark:horse_whistle, item.horse_whistle.name
-quark:soul_powder, item.soul_powder.name
-quark:parrot_egg:0, Red Parrot Egg
-quark:parrot_egg:1, Blue Parrot Egg
-quark:parrot_egg:2, Green Parrot Egg
-quark:parrot_egg:3, Cyan Parrot Egg
-quark:parrot_egg:4, Gray Parrot Egg
-quark:enderdragon_scale, item.enderdragon_scale.name
-quark:glass_shards:0, Glass Shard
-quark:glass_shards:1, White Glass Shard
-quark:glass_shards:2, Orange Glass Shard
-quark:glass_shards:3, Magenta Glass Shard
-quark:glass_shards:4, Light Blue Glass Shard
-quark:glass_shards:5, Yellow Glass Shard
-quark:glass_shards:6, Lime Glass Shard
-quark:glass_shards:7, Pink Glass Shard
-quark:glass_shards:8, Gray Glass Shard
-quark:glass_shards:9, Light Gray Glass Shard
-quark:glass_shards:10, Cyan Glass Shard
-quark:glass_shards:11, Purple Glass Shard
-quark:glass_shards:12, Blue Glass Shard
-quark:glass_shards:13, Brown Glass Shard
-quark:glass_shards:14, Green Glass Shard
-quark:glass_shards:15, Red Glass Shard
-quark:glass_shards:16, Black Glass Shard
 quark:sandstone_new:0, Polished Sandstone
 quark:sandstone_new:1, Sandstone Bricks
 quark:sandstone_new:2, Polished Red Sandstone
@@ -3343,6 +3190,82 @@ quark:quilted_wool:12, Brown Quilted Wool
 quark:quilted_wool:13, Green Quilted Wool
 quark:quilted_wool:14, Red Quilted Wool
 quark:quilted_wool:15, Black Quilted Wool
+quark:pickarang, item.pickarang.name
+quark:arrow_ender, item.arrow_ender.name
+quark:arrow_explosive, item.arrow_explosive.name
+quark:arrow_torch, item.arrow_torch.name
+quark:slime_bucket:0, Slime in a Bucket
+quark:rune:0, White Rune
+quark:rune:1, Orange Rune
+quark:rune:2, Magenta Rune
+quark:rune:3, Light Blue Rune
+quark:rune:4, Yellow Rune
+quark:rune:5, Lime Rune
+quark:rune:6, Pink Rune
+quark:rune:7, Gray Rune
+quark:rune:8, Light Gray Rune
+quark:rune:9, Cyan Rune
+quark:rune:10, Purple Rune
+quark:rune:11, Blue Rune
+quark:rune:12, Brown Rune
+quark:rune:13, Green Rune
+quark:rune:14, Red Rune
+quark:rune:15, Black Rune
+quark:rune:16, Rainbow Rune
+quark:black_ash, tile.black_ash.name
+quark:ancient_tome, item.ancient_tome.name
+quark:horse_whistle, item.horse_whistle.name
+quark:soul_powder, item.soul_powder.name
+quark:parrot_egg:0, Red Parrot Egg
+quark:parrot_egg:1, Blue Parrot Egg
+quark:parrot_egg:2, Green Parrot Egg
+quark:parrot_egg:3, Cyan Parrot Egg
+quark:parrot_egg:4, Gray Parrot Egg
+quark:enderdragon_scale, item.enderdragon_scale.name
+quark:glass_shards:0, Glass Shard
+quark:glass_shards:1, White Glass Shard
+quark:glass_shards:2, Orange Glass Shard
+quark:glass_shards:3, Magenta Glass Shard
+quark:glass_shards:4, Light Blue Glass Shard
+quark:glass_shards:5, Yellow Glass Shard
+quark:glass_shards:6, Lime Glass Shard
+quark:glass_shards:7, Pink Glass Shard
+quark:glass_shards:8, Gray Glass Shard
+quark:glass_shards:9, Light Gray Glass Shard
+quark:glass_shards:10, Cyan Glass Shard
+quark:glass_shards:11, Purple Glass Shard
+quark:glass_shards:12, Blue Glass Shard
+quark:glass_shards:13, Brown Glass Shard
+quark:glass_shards:14, Green Glass Shard
+quark:glass_shards:15, Red Glass Shard
+quark:glass_shards:16, Black Glass Shard
+quark:paper_wall, tile.paper_wall.name
+quark:paper_wall_big, tile.paper_wall_big.name
+quark:paper_wall_sakura, tile.paper_wall_sakura.name
+quark:iron_ladder, tile.iron_ladder.name
+quark:paper_lantern:0, Paper Lamp
+quark:paper_lantern:1, Decorated Paper Lamp
+quark:colored_item_frame:0, White Item Frame
+quark:colored_item_frame:1, Orange Item Frame
+quark:colored_item_frame:2, Magenta Item Frame
+quark:colored_item_frame:3, Light Blue Item Frame
+quark:colored_item_frame:4, Yellow Item Frame
+quark:colored_item_frame:5, Lime Item Frame
+quark:colored_item_frame:6, Pink Item Frame
+quark:colored_item_frame:7, Gray Item Frame
+quark:colored_item_frame:8, Light Gray Item Frame
+quark:colored_item_frame:9, Cyan Item Frame
+quark:colored_item_frame:10, Purple Item Frame
+quark:colored_item_frame:11, Blue Item Frame
+quark:colored_item_frame:12, Brown Item Frame
+quark:colored_item_frame:13, Green Item Frame
+quark:colored_item_frame:14, Red Item Frame
+quark:colored_item_frame:15, Black Item Frame
+quark:rope, tile.rope.name
+quark:blaze_lantern, tile.blaze_lantern.name
+quark:nether_brick_fence_gate, tile.nether_brick_fence_gate.name
+quark:grate, tile.grate.name
+quark:glass_item_frame, item.glass_item_frame.name
 quark:sugar_block, tile.sugar_block.name
 quark:redstone_randomizer, tile.redstone_randomizer.name
 quark:iron_button, tile.iron_button.name
@@ -3358,6 +3281,7 @@ quark:redstone_inductor, tile.redstone_inductor.name
 quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
 quark:rain_detector, tile.rain_detector.name
 quark:chain, item.chain.name
+quark:witch_hat, item.witch_hat.name
 baubles:ring:0, Miner's Ring
 bloodmagic:altar, Blood Altar
 bloodmagic:blood_rune:0, Blank Rune
@@ -5098,6 +5022,27 @@ mocreatures:wyvwood_slab:0, Wyvwood Slab
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
 naturescompass:naturescompass, Nature's Compass
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -5148,28 +5093,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -5188,6 +5111,7 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 twilightforest:naga_scale, Naga Scale
 twilightforest:naga_chestplate, Naga Scale Tunic
 twilightforest:naga_leggings, Naga Scale Leggings
@@ -6110,270 +6034,30 @@ undergroundbiomes:sedimentary_stone_stairs:4, Lignite Block Stairs
 undergroundbiomes:sedimentary_stone_stairs:5, Dolomite Stairs
 undergroundbiomes:sedimentary_stone_stairs:6, Greywacke Stairs
 undergroundbiomes:sedimentary_stone_stairs:7, Chert Stairs
-undergroundbiomes:igneous_stone_gold_ore:0, Red Granite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:1, Black Granite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:2, Rhyolite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:3, Andesite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:4, Gabbro Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:5, Basalt Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:6, Komatiite Gold Ore
-undergroundbiomes:igneous_stone_gold_ore:7, Dacite Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:0, Gneiss Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:1, Eclogite Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:2, Marble Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:3, Quartzite Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:4, Blue Schist Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:5, Green Schist Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:6, Soapstone Gold Ore
-undergroundbiomes:metamorphic_stone_gold_ore:7, Migmatite Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:0, Limestone Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:1, Chalk Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:2, Shale Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:3, Siltstone Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:4, Lignite Block Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:5, Dolomite Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:6, Greywacke Gold Ore
-undergroundbiomes:sedimentary_stone_gold_ore:7, Chert Gold Ore
-undergroundbiomes:igneous_stone_iron_ore:0, Red Granite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:1, Black Granite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:2, Rhyolite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:3, Andesite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:4, Gabbro Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:5, Basalt Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:6, Komatiite Iron Ore
-undergroundbiomes:igneous_stone_iron_ore:7, Dacite Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:0, Gneiss Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:1, Eclogite Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:2, Marble Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:3, Quartzite Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:4, Blue Schist Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:5, Green Schist Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:6, Soapstone Iron Ore
-undergroundbiomes:metamorphic_stone_iron_ore:7, Migmatite Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:0, Limestone Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:1, Chalk Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:2, Shale Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:3, Siltstone Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:4, Lignite Block Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:5, Dolomite Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:6, Greywacke Iron Ore
-undergroundbiomes:sedimentary_stone_iron_ore:7, Chert Iron Ore
-undergroundbiomes:igneous_stone_emerald_ore:0, Red Granite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:1, Black Granite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:2, Rhyolite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:3, Andesite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:4, Gabbro Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:5, Basalt Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:6, Komatiite Emerald Ore
-undergroundbiomes:igneous_stone_emerald_ore:7, Dacite Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:0, Gneiss Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:1, Eclogite Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:2, Marble Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:3, Quartzite Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:4, Blue Schist Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:5, Green Schist Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:6, Soapstone Emerald Ore
-undergroundbiomes:metamorphic_stone_emerald_ore:7, Migmatite Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:0, Limestone Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:1, Chalk Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:2, Shale Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:3, Siltstone Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:4, Lignite Block Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:5, Dolomite Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:6, Greywacke Emerald Ore
-undergroundbiomes:sedimentary_stone_emerald_ore:7, Chert Emerald Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:0, Red Granite Silver Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:1, Black Granite Silver Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:2, Rhyolite Silver Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:3, Andesite Silver Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:4, Gabbro Silver Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:5, Basalt Silver Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:6, Komatiite Silver Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:7, Dacite Silver Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:0, Gneiss Silver Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:1, Eclogite Silver Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:2, Marble Silver Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:3, Quartzite Silver Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:4, Blue Schist Silver Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:5, Green Schist Silver Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:6, Soapstone Silver Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:7, Migmatite Silver Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:0, Limestone Silver Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:1, Chalk Silver Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:2, Shale Silver Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:3, Siltstone Silver Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:4, Lignite Block Silver Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:5, Dolomite Silver Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:6, Greywacke Silver Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:7, Chert Silver Ore
-undergroundbiomes:igneous_stone_lapis_ore:0, Red Granite Lapis Lazuli Ore
-undergroundbiomes:igneous_stone_lapis_ore:1, Black Granite Lapis Lazuli Ore
-undergroundbiomes:igneous_stone_lapis_ore:2, Rhyolite Lapis Lazuli Ore
-undergroundbiomes:igneous_stone_lapis_ore:3, Andesite Lapis Lazuli Ore
-undergroundbiomes:igneous_stone_lapis_ore:4, Gabbro Lapis Lazuli Ore
-undergroundbiomes:igneous_stone_lapis_ore:5, Basalt Lapis Lazuli Ore
-undergroundbiomes:igneous_stone_lapis_ore:6, Komatiite Lapis Lazuli Ore
-undergroundbiomes:igneous_stone_lapis_ore:7, Dacite Lapis Lazuli Ore
-undergroundbiomes:metamorphic_stone_lapis_ore:0, Gneiss Lapis Lazuli Ore
-undergroundbiomes:metamorphic_stone_lapis_ore:1, Eclogite Lapis Lazuli Ore
-undergroundbiomes:metamorphic_stone_lapis_ore:2, Marble Lapis Lazuli Ore
-undergroundbiomes:metamorphic_stone_lapis_ore:3, Quartzite Lapis Lazuli Ore
-undergroundbiomes:metamorphic_stone_lapis_ore:4, Blue Schist Lapis Lazuli Ore
-undergroundbiomes:metamorphic_stone_lapis_ore:5, Green Schist Lapis Lazuli Ore
-undergroundbiomes:metamorphic_stone_lapis_ore:6, Soapstone Lapis Lazuli Ore
-undergroundbiomes:metamorphic_stone_lapis_ore:7, Migmatite Lapis Lazuli Ore
-undergroundbiomes:sedimentary_stone_lapis_ore:0, Limestone Lapis Lazuli Ore
-undergroundbiomes:sedimentary_stone_lapis_ore:1, Chalk Lapis Lazuli Ore
-undergroundbiomes:sedimentary_stone_lapis_ore:2, Shale Lapis Lazuli Ore
-undergroundbiomes:sedimentary_stone_lapis_ore:3, Siltstone Lapis Lazuli Ore
-undergroundbiomes:sedimentary_stone_lapis_ore:4, Lignite Block Lapis Lazuli Ore
-undergroundbiomes:sedimentary_stone_lapis_ore:5, Dolomite Lapis Lazuli Ore
-undergroundbiomes:sedimentary_stone_lapis_ore:6, Greywacke Lapis Lazuli Ore
-undergroundbiomes:sedimentary_stone_lapis_ore:7, Chert Lapis Lazuli Ore
-undergroundbiomes:igneous_stone_coal_ore:0, Red Granite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:1, Black Granite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:2, Rhyolite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:3, Andesite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:4, Gabbro Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:5, Basalt Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:6, Komatiite Coal Ore
-undergroundbiomes:igneous_stone_coal_ore:7, Dacite Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:0, Gneiss Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:1, Eclogite Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:2, Marble Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:3, Quartzite Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:4, Blue Schist Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:5, Green Schist Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:6, Soapstone Coal Ore
-undergroundbiomes:metamorphic_stone_coal_ore:7, Migmatite Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:0, Limestone Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:1, Chalk Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:2, Shale Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:3, Siltstone Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:4, Lignite Block Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:5, Dolomite Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:6, Greywacke Coal Ore
-undergroundbiomes:sedimentary_stone_coal_ore:7, Chert Coal Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:0, Red Granite Tanzanite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:1, Black Granite Tanzanite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:2, Rhyolite Tanzanite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:3, Andesite Tanzanite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:4, Gabbro Tanzanite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:5, Basalt Tanzanite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:6, Komatiite Tanzanite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:7, Dacite Tanzanite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:0, Gneiss Tanzanite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:1, Eclogite Tanzanite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:2, Marble Tanzanite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:3, Quartzite Tanzanite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:4, Blue Schist Tanzanite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:5, Green Schist Tanzanite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:6, Soapstone Tanzanite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:7, Migmatite Tanzanite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:0, Limestone Tanzanite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:1, Chalk Tanzanite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:2, Shale Tanzanite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:3, Siltstone Tanzanite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:4, Lignite Block Tanzanite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:5, Dolomite Tanzanite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:6, Greywacke Tanzanite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:7, Chert Tanzanite Ore
-undergroundbiomes:igneous_stone_thermalfoundation_ore:0, Red Granite Copper Ore
-undergroundbiomes:igneous_stone_thermalfoundation_ore:1, Black Granite Copper Ore
-undergroundbiomes:igneous_stone_thermalfoundation_ore:2, Rhyolite Copper Ore
-undergroundbiomes:igneous_stone_thermalfoundation_ore:3, Andesite Copper Ore
-undergroundbiomes:igneous_stone_thermalfoundation_ore:4, Gabbro Copper Ore
-undergroundbiomes:igneous_stone_thermalfoundation_ore:5, Basalt Copper Ore
-undergroundbiomes:igneous_stone_thermalfoundation_ore:6, Komatiite Copper Ore
-undergroundbiomes:igneous_stone_thermalfoundation_ore:7, Dacite Copper Ore
-undergroundbiomes:metamorphic_stone_thermalfoundation_ore:0, Gneiss Copper Ore
-undergroundbiomes:metamorphic_stone_thermalfoundation_ore:1, Eclogite Copper Ore
-undergroundbiomes:metamorphic_stone_thermalfoundation_ore:2, Marble Copper Ore
-undergroundbiomes:metamorphic_stone_thermalfoundation_ore:3, Quartzite Copper Ore
-undergroundbiomes:metamorphic_stone_thermalfoundation_ore:4, Blue Schist Copper Ore
-undergroundbiomes:metamorphic_stone_thermalfoundation_ore:5, Green Schist Copper Ore
-undergroundbiomes:metamorphic_stone_thermalfoundation_ore:6, Soapstone Copper Ore
-undergroundbiomes:metamorphic_stone_thermalfoundation_ore:7, Migmatite Copper Ore
-undergroundbiomes:sedimentary_stone_thermalfoundation_ore:0, Limestone Copper Ore
-undergroundbiomes:sedimentary_stone_thermalfoundation_ore:1, Chalk Copper Ore
-undergroundbiomes:sedimentary_stone_thermalfoundation_ore:2, Shale Copper Ore
-undergroundbiomes:sedimentary_stone_thermalfoundation_ore:3, Siltstone Copper Ore
-undergroundbiomes:sedimentary_stone_thermalfoundation_ore:4, Lignite Block Copper Ore
-undergroundbiomes:sedimentary_stone_thermalfoundation_ore:5, Dolomite Copper Ore
-undergroundbiomes:sedimentary_stone_thermalfoundation_ore:6, Greywacke Copper Ore
-undergroundbiomes:sedimentary_stone_thermalfoundation_ore:7, Chert Copper Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:0, Red Granite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:1, Black Granite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:2, Rhyolite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:3, Andesite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:4, Gabbro Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:5, Basalt Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:6, Komatiite Malachite Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:7, Dacite Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:0, Gneiss Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:1, Eclogite Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:2, Marble Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:3, Quartzite Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:4, Blue Schist Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:5, Green Schist Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:6, Soapstone Malachite Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:7, Migmatite Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:0, Limestone Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:1, Chalk Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:2, Shale Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:3, Siltstone Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:4, Lignite Block Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:5, Dolomite Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:6, Greywacke Malachite Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:7, Chert Malachite Ore
-undergroundbiomes:igneous_stone_redstone_ore:0, Red Granite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:1, Black Granite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:2, Rhyolite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:3, Andesite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:4, Gabbro Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:5, Basalt Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:6, Komatiite Redstone Ore
-undergroundbiomes:igneous_stone_redstone_ore:7, Dacite Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:0, Gneiss Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:1, Eclogite Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:2, Marble Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:3, Quartzite Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:4, Blue Schist Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:5, Green Schist Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:6, Soapstone Redstone Ore
-undergroundbiomes:metamorphic_stone_redstone_ore:7, Migmatite Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:0, Limestone Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:1, Chalk Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:2, Shale Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:3, Siltstone Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:4, Lignite Block Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:5, Dolomite Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:6, Greywacke Redstone Ore
-undergroundbiomes:sedimentary_stone_redstone_ore:7, Chert Redstone Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:0, Red Granite Oil Shale
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:1, Black Granite Oil Shale
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:2, Rhyolite Oil Shale
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:3, Andesite Oil Shale
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:4, Gabbro Oil Shale
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:5, Basalt Oil Shale
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:6, Komatiite Oil Shale
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:7, Dacite Oil Shale
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:0, Gneiss Oil Shale
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:1, Eclogite Oil Shale
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:2, Marble Oil Shale
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:3, Quartzite Oil Shale
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:4, Blue Schist Oil Shale
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:5, Green Schist Oil Shale
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:6, Soapstone Oil Shale
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:7, Migmatite Oil Shale
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:0, Limestone Oil Shale
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:1, Chalk Oil Shale
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:2, Shale Oil Shale
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:3, Siltstone Oil Shale
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:4, Lignite Block Oil Shale
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:5, Dolomite Oil Shale
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:6, Greywacke Oil Shale
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:7, Chert Oil Shale
+undergroundbiomes:igneous_stone_diamond_ore:0, Red Granite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:1, Black Granite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:2, Rhyolite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:3, Andesite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:4, Gabbro Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:5, Basalt Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:6, Komatiite Diamond Ore
+undergroundbiomes:igneous_stone_diamond_ore:7, Dacite Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:0, Gneiss Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:1, Eclogite Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:2, Marble Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:3, Quartzite Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:4, Blue Schist Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:5, Green Schist Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:6, Soapstone Diamond Ore
+undergroundbiomes:metamorphic_stone_diamond_ore:7, Migmatite Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:0, Limestone Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:1, Chalk Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:2, Shale Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:3, Siltstone Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:4, Lignite Block Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:5, Dolomite Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:6, Greywacke Diamond Ore
+undergroundbiomes:sedimentary_stone_diamond_ore:7, Chert Diamond Ore
 undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.platinum.name:0, Red Granite Platinum Ore
 undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.platinum.name:1, Black Granite Platinum Ore
 undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.platinum.name:2, Rhyolite Platinum Ore
@@ -6398,6 +6082,30 @@ undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.platinum.name:4, 
 undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.platinum.name:5, Dolomite Platinum Ore
 undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.platinum.name:6, Greywacke Platinum Ore
 undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.platinum.name:7, Chert Platinum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:0, Red Granite Nickel Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:1, Black Granite Nickel Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:2, Rhyolite Nickel Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:3, Andesite Nickel Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:4, Gabbro Nickel Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:5, Basalt Nickel Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:6, Komatiite Nickel Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:7, Dacite Nickel Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:0, Gneiss Nickel Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:1, Eclogite Nickel Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:2, Marble Nickel Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:3, Quartzite Nickel Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:4, Blue Schist Nickel Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:5, Green Schist Nickel Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:6, Soapstone Nickel Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:7, Migmatite Nickel Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:0, Limestone Nickel Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:1, Chalk Nickel Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:2, Shale Nickel Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:3, Siltstone Nickel Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:4, Lignite Block Nickel Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:5, Dolomite Nickel Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:6, Greywacke Nickel Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:7, Chert Nickel Ore
 undergroundbiomes:igneous_stone_thaumcraft_ore_cinnabar:0, Red Granite Cinnabar Ore
 undergroundbiomes:igneous_stone_thaumcraft_ore_cinnabar:1, Black Granite Cinnabar Ore
 undergroundbiomes:igneous_stone_thaumcraft_ore_cinnabar:2, Rhyolite Cinnabar Ore
@@ -6422,30 +6130,54 @@ undergroundbiomes:sedimentary_stone_thaumcraft_ore_cinnabar:4, Lignite Block Cin
 undergroundbiomes:sedimentary_stone_thaumcraft_ore_cinnabar:5, Dolomite Cinnabar Ore
 undergroundbiomes:sedimentary_stone_thaumcraft_ore_cinnabar:6, Greywacke Cinnabar Ore
 undergroundbiomes:sedimentary_stone_thaumcraft_ore_cinnabar:7, Chert Cinnabar Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:0, Red Granite Aluminum Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:1, Black Granite Aluminum Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:2, Rhyolite Aluminum Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:3, Andesite Aluminum Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:4, Gabbro Aluminum Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:5, Basalt Aluminum Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:6, Komatiite Aluminum Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:7, Dacite Aluminum Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:0, Gneiss Aluminum Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:1, Eclogite Aluminum Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:2, Marble Aluminum Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:3, Quartzite Aluminum Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:4, Blue Schist Aluminum Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:5, Green Schist Aluminum Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:6, Soapstone Aluminum Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:7, Migmatite Aluminum Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:0, Limestone Aluminum Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:1, Chalk Aluminum Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:2, Shale Aluminum Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:3, Siltstone Aluminum Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:4, Lignite Block Aluminum Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:5, Dolomite Aluminum Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:6, Greywacke Aluminum Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:7, Chert Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:0, Red Granite Silver Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:1, Black Granite Silver Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:2, Rhyolite Silver Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:3, Andesite Silver Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:4, Gabbro Silver Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:5, Basalt Silver Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:6, Komatiite Silver Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.silver.name:7, Dacite Silver Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:0, Gneiss Silver Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:1, Eclogite Silver Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:2, Marble Silver Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:3, Quartzite Silver Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:4, Blue Schist Silver Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:5, Green Schist Silver Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:6, Soapstone Silver Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.silver.name:7, Migmatite Silver Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:0, Limestone Silver Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:1, Chalk Silver Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:2, Shale Silver Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:3, Siltstone Silver Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:4, Lignite Block Silver Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:5, Dolomite Silver Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:6, Greywacke Silver Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.silver.name:7, Chert Silver Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:0, Red Granite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:1, Black Granite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:2, Rhyolite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:3, Andesite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:4, Gabbro Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:5, Basalt Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:6, Komatiite Amber Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:7, Dacite Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:0, Gneiss Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:1, Eclogite Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:2, Marble Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:3, Quartzite Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:4, Blue Schist Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:5, Green Schist Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:6, Soapstone Amber Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:7, Migmatite Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:0, Limestone Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:1, Chalk Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:2, Shale Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:3, Siltstone Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:4, Lignite Block Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:5, Dolomite Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:6, Greywacke Amber Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:7, Chert Amber Ore
 undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.lead.name:0, Red Granite Lead Ore
 undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.lead.name:1, Black Granite Lead Ore
 undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.lead.name:2, Rhyolite Lead Ore
@@ -6494,342 +6226,6 @@ undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.redstone.name:4, 
 undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.redstone.name:5, Dolomite Destabilized Redstone Ore
 undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.redstone.name:6, Greywacke Destabilized Redstone Ore
 undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.redstone.name:7, Chert Destabilized Redstone Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:0, Red Granite Mana Infused Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:1, Black Granite Mana Infused Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:2, Rhyolite Mana Infused Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:3, Andesite Mana Infused Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:4, Gabbro Mana Infused Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:5, Basalt Mana Infused Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:6, Komatiite Mana Infused Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:7, Dacite Mana Infused Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:0, Gneiss Mana Infused Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:1, Eclogite Mana Infused Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:2, Marble Mana Infused Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:3, Quartzite Mana Infused Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:4, Blue Schist Mana Infused Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:5, Green Schist Mana Infused Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:6, Soapstone Mana Infused Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:7, Migmatite Mana Infused Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:0, Limestone Mana Infused Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:1, Chalk Mana Infused Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:2, Shale Mana Infused Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:3, Siltstone Mana Infused Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:4, Lignite Block Mana Infused Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:5, Dolomite Mana Infused Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:6, Greywacke Mana Infused Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:7, Chert Mana Infused Ore
-undergroundbiomes:igneous_stone_diamond_ore:0, Red Granite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:1, Black Granite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:2, Rhyolite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:3, Andesite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:4, Gabbro Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:5, Basalt Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:6, Komatiite Diamond Ore
-undergroundbiomes:igneous_stone_diamond_ore:7, Dacite Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:0, Gneiss Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:1, Eclogite Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:2, Marble Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:3, Quartzite Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:4, Blue Schist Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:5, Green Schist Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:6, Soapstone Diamond Ore
-undergroundbiomes:metamorphic_stone_diamond_ore:7, Migmatite Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:0, Limestone Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:1, Chalk Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:2, Shale Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:3, Siltstone Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:4, Lignite Block Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:5, Dolomite Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:6, Greywacke Diamond Ore
-undergroundbiomes:sedimentary_stone_diamond_ore:7, Chert Diamond Ore
-undergroundbiomes:igneous_stone_thaumcraft_ore_amber:0, Red Granite Amber Bearing Stone
-undergroundbiomes:igneous_stone_thaumcraft_ore_amber:1, Black Granite Amber Bearing Stone
-undergroundbiomes:igneous_stone_thaumcraft_ore_amber:2, Rhyolite Amber Bearing Stone
-undergroundbiomes:igneous_stone_thaumcraft_ore_amber:3, Andesite Amber Bearing Stone
-undergroundbiomes:igneous_stone_thaumcraft_ore_amber:4, Gabbro Amber Bearing Stone
-undergroundbiomes:igneous_stone_thaumcraft_ore_amber:5, Basalt Amber Bearing Stone
-undergroundbiomes:igneous_stone_thaumcraft_ore_amber:6, Komatiite Amber Bearing Stone
-undergroundbiomes:igneous_stone_thaumcraft_ore_amber:7, Dacite Amber Bearing Stone
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:0, Gneiss Amber Bearing Stone
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:1, Eclogite Amber Bearing Stone
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:2, Marble Amber Bearing Stone
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:3, Quartzite Amber Bearing Stone
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:4, Blue Schist Amber Bearing Stone
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:5, Green Schist Amber Bearing Stone
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:6, Soapstone Amber Bearing Stone
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:7, Migmatite Amber Bearing Stone
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:0, Limestone Amber Bearing Stone
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:1, Chalk Amber Bearing Stone
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:2, Shale Amber Bearing Stone
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:3, Siltstone Amber Bearing Stone
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:4, Lignite Block Amber Bearing Stone
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:5, Dolomite Amber Bearing Stone
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:6, Greywacke Amber Bearing Stone
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:7, Chert Amber Bearing Stone
-undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:0, Red Granite Quartz Ore
-undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:1, Black Granite Quartz Ore
-undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:2, Rhyolite Quartz Ore
-undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:3, Andesite Quartz Ore
-undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:4, Gabbro Quartz Ore
-undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:5, Basalt Quartz Ore
-undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:6, Komatiite Quartz Ore
-undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:7, Dacite Quartz Ore
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:0, Gneiss Quartz Ore
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:1, Eclogite Quartz Ore
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:2, Marble Quartz Ore
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:3, Quartzite Quartz Ore
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:4, Blue Schist Quartz Ore
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:5, Green Schist Quartz Ore
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:6, Soapstone Quartz Ore
-undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:7, Migmatite Quartz Ore
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:0, Limestone Quartz Ore
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:1, Chalk Quartz Ore
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:2, Shale Quartz Ore
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:3, Siltstone Quartz Ore
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:4, Lignite Block Quartz Ore
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:5, Dolomite Quartz Ore
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:6, Greywacke Quartz Ore
-undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:7, Chert Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:0, Red Granite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:1, Black Granite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:2, Rhyolite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:3, Andesite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:4, Gabbro Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:5, Basalt Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:6, Komatiite Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:7, Dacite Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:0, Gneiss Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:1, Eclogite Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:2, Marble Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:3, Quartzite Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:4, Blue Schist Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:5, Green Schist Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:6, Soapstone Charged Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:7, Migmatite Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:0, Limestone Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:1, Chalk Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:2, Shale Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:3, Siltstone Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:4, Lignite Block Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:5, Dolomite Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:6, Greywacke Charged Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:7, Chert Charged Certus Quartz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:0, Red Granite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:1, Black Granite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:2, Rhyolite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:3, Andesite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:4, Gabbro Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:5, Basalt Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:6, Komatiite Sapphire Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:7, Dacite Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:0, Gneiss Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:1, Eclogite Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:2, Marble Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:3, Quartzite Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:4, Blue Schist Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:5, Green Schist Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:6, Soapstone Sapphire Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:7, Migmatite Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:0, Limestone Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:1, Chalk Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:2, Shale Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:3, Siltstone Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:4, Lignite Block Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:5, Dolomite Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:6, Greywacke Sapphire Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:7, Chert Sapphire Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:0, Red Granite Iridium Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:1, Black Granite Iridium Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:2, Rhyolite Iridium Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:3, Andesite Iridium Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:4, Gabbro Iridium Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:5, Basalt Iridium Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:6, Komatiite Iridium Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:7, Dacite Iridium Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:0, Gneiss Iridium Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:1, Eclogite Iridium Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:2, Marble Iridium Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:3, Quartzite Iridium Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:4, Blue Schist Iridium Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:5, Green Schist Iridium Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:6, Soapstone Iridium Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:7, Migmatite Iridium Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:0, Limestone Iridium Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:1, Chalk Iridium Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:2, Shale Iridium Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:3, Siltstone Iridium Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:4, Lignite Block Iridium Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:5, Dolomite Iridium Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:6, Greywacke Iridium Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:7, Chert Iridium Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:0, Red Granite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:1, Black Granite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:2, Rhyolite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:3, Andesite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:4, Gabbro Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:5, Basalt Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:6, Komatiite Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:7, Dacite Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:0, Gneiss Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:1, Eclogite Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:2, Marble Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:3, Quartzite Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:4, Blue Schist Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:5, Green Schist Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:6, Soapstone Peridot Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:7, Migmatite Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:0, Limestone Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:1, Chalk Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:2, Shale Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:3, Siltstone Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:4, Lignite Block Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:5, Dolomite Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:6, Greywacke Peridot Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:7, Chert Peridot Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:0, Red Granite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:1, Black Granite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:2, Rhyolite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:3, Andesite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:4, Gabbro Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:5, Basalt Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:6, Komatiite Ruby Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:7, Dacite Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:0, Gneiss Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:1, Eclogite Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:2, Marble Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:3, Quartzite Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:4, Blue Schist Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:5, Green Schist Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:6, Soapstone Ruby Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:7, Migmatite Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:0, Limestone Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:1, Chalk Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:2, Shale Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:3, Siltstone Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:4, Lignite Block Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:5, Dolomite Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:6, Greywacke Ruby Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:7, Chert Ruby Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:0, Red Granite Nickel Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:1, Black Granite Nickel Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:2, Rhyolite Nickel Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:3, Andesite Nickel Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:4, Gabbro Nickel Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:5, Basalt Nickel Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:6, Komatiite Nickel Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.nickel.name:7, Dacite Nickel Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:0, Gneiss Nickel Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:1, Eclogite Nickel Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:2, Marble Nickel Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:3, Quartzite Nickel Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:4, Blue Schist Nickel Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:5, Green Schist Nickel Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:6, Soapstone Nickel Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.nickel.name:7, Migmatite Nickel Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:0, Limestone Nickel Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:1, Chalk Nickel Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:2, Shale Nickel Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:3, Siltstone Nickel Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:4, Lignite Block Nickel Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:5, Dolomite Nickel Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:6, Greywacke Nickel Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.nickel.name:7, Chert Nickel Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:0, Red Granite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:1, Black Granite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:2, Rhyolite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:3, Andesite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:4, Gabbro Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:5, Basalt Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:6, Komatiite Amber Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.amber_ore:7, Dacite Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:0, Gneiss Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:1, Eclogite Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:2, Marble Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:3, Quartzite Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:4, Blue Schist Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:5, Green Schist Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:6, Soapstone Amber Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.amber_ore:7, Migmatite Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:0, Limestone Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:1, Chalk Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:2, Shale Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:3, Siltstone Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:4, Lignite Block Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:5, Dolomite Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:6, Greywacke Amber Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.amber_ore:7, Chert Amber Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:0, Red Granite Tin Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:1, Black Granite Tin Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:2, Rhyolite Tin Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:3, Andesite Tin Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:4, Gabbro Tin Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:5, Basalt Tin Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:6, Komatiite Tin Ore
-undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:7, Dacite Tin Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:0, Gneiss Tin Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:1, Eclogite Tin Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:2, Marble Tin Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:3, Quartzite Tin Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:4, Blue Schist Tin Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:5, Green Schist Tin Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:6, Soapstone Tin Ore
-undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:7, Migmatite Tin Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:0, Limestone Tin Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:1, Chalk Tin Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:2, Shale Tin Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:3, Siltstone Tin Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:4, Lignite Block Tin Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:5, Dolomite Tin Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:6, Greywacke Tin Ore
-undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:7, Chert Tin Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:0, Red Granite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:1, Black Granite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:2, Rhyolite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:3, Andesite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:4, Gabbro Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:5, Basalt Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:6, Komatiite Topaz Ore
-undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:7, Dacite Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:0, Gneiss Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:1, Eclogite Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:2, Marble Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:3, Quartzite Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:4, Blue Schist Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:5, Green Schist Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:6, Soapstone Topaz Ore
-undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:7, Migmatite Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:0, Limestone Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:1, Chalk Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:2, Shale Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:3, Siltstone Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:4, Lignite Block Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:5, Dolomite Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:6, Greywacke Topaz Ore
-undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:7, Chert Topaz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:0, Red Granite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:1, Black Granite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:2, Rhyolite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:3, Andesite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:4, Gabbro Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:5, Basalt Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:6, Komatiite Certus Quartz Ore
-undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:7, Dacite Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:0, Gneiss Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:1, Eclogite Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:2, Marble Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:3, Quartzite Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:4, Blue Schist Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:5, Green Schist Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:6, Soapstone Certus Quartz Ore
-undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:7, Migmatite Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:0, Limestone Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:1, Chalk Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:2, Shale Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:3, Siltstone Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:4, Lignite Block Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:5, Dolomite Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:6, Greywacke Certus Quartz Ore
-undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:7, Chert Certus Quartz Ore
 undergroundbiomes:igneous_stone_thermalfoundation_ore_fluid:0, Red Granite Oil Sand
 undergroundbiomes:igneous_stone_thermalfoundation_ore_fluid:1, Black Granite Oil Sand
 undergroundbiomes:igneous_stone_thermalfoundation_ore_fluid:2, Rhyolite Oil Sand
@@ -6854,6 +6250,534 @@ undergroundbiomes:sedimentary_stone_thermalfoundation_ore_fluid:4, Lignite Block
 undergroundbiomes:sedimentary_stone_thermalfoundation_ore_fluid:5, Dolomite Oil Sand
 undergroundbiomes:sedimentary_stone_thermalfoundation_ore_fluid:6, Greywacke Oil Sand
 undergroundbiomes:sedimentary_stone_thermalfoundation_ore_fluid:7, Chert Oil Sand
+undergroundbiomes:igneous_stone_coal_ore:0, Red Granite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:1, Black Granite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:2, Rhyolite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:3, Andesite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:4, Gabbro Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:5, Basalt Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:6, Komatiite Coal Ore
+undergroundbiomes:igneous_stone_coal_ore:7, Dacite Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:0, Gneiss Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:1, Eclogite Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:2, Marble Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:3, Quartzite Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:4, Blue Schist Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:5, Green Schist Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:6, Soapstone Coal Ore
+undergroundbiomes:metamorphic_stone_coal_ore:7, Migmatite Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:0, Limestone Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:1, Chalk Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:2, Shale Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:3, Siltstone Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:4, Lignite Block Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:5, Dolomite Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:6, Greywacke Coal Ore
+undergroundbiomes:sedimentary_stone_coal_ore:7, Chert Coal Ore
+undergroundbiomes:igneous_stone_thaumcraft_ore_amber:0, Red Granite Amber Bearing Stone
+undergroundbiomes:igneous_stone_thaumcraft_ore_amber:1, Black Granite Amber Bearing Stone
+undergroundbiomes:igneous_stone_thaumcraft_ore_amber:2, Rhyolite Amber Bearing Stone
+undergroundbiomes:igneous_stone_thaumcraft_ore_amber:3, Andesite Amber Bearing Stone
+undergroundbiomes:igneous_stone_thaumcraft_ore_amber:4, Gabbro Amber Bearing Stone
+undergroundbiomes:igneous_stone_thaumcraft_ore_amber:5, Basalt Amber Bearing Stone
+undergroundbiomes:igneous_stone_thaumcraft_ore_amber:6, Komatiite Amber Bearing Stone
+undergroundbiomes:igneous_stone_thaumcraft_ore_amber:7, Dacite Amber Bearing Stone
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:0, Gneiss Amber Bearing Stone
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:1, Eclogite Amber Bearing Stone
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:2, Marble Amber Bearing Stone
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:3, Quartzite Amber Bearing Stone
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:4, Blue Schist Amber Bearing Stone
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:5, Green Schist Amber Bearing Stone
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:6, Soapstone Amber Bearing Stone
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_amber:7, Migmatite Amber Bearing Stone
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:0, Limestone Amber Bearing Stone
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:1, Chalk Amber Bearing Stone
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:2, Shale Amber Bearing Stone
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:3, Siltstone Amber Bearing Stone
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:4, Lignite Block Amber Bearing Stone
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:5, Dolomite Amber Bearing Stone
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:6, Greywacke Amber Bearing Stone
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_amber:7, Chert Amber Bearing Stone
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:0, Red Granite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:1, Black Granite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:2, Rhyolite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:3, Andesite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:4, Gabbro Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:5, Basalt Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:6, Komatiite Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_charged_quartz_ore:7, Dacite Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:0, Gneiss Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:1, Eclogite Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:2, Marble Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:3, Quartzite Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:4, Blue Schist Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:5, Green Schist Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:6, Soapstone Charged Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_charged_quartz_ore:7, Migmatite Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:0, Limestone Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:1, Chalk Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:2, Shale Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:3, Siltstone Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:4, Lignite Block Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:5, Dolomite Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:6, Greywacke Charged Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_charged_quartz_ore:7, Chert Charged Certus Quartz Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:0, Red Granite Mana Infused Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:1, Black Granite Mana Infused Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:2, Rhyolite Mana Infused Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:3, Andesite Mana Infused Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:4, Gabbro Mana Infused Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:5, Basalt Mana Infused Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:6, Komatiite Mana Infused Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.mithril.name:7, Dacite Mana Infused Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:0, Gneiss Mana Infused Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:1, Eclogite Mana Infused Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:2, Marble Mana Infused Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:3, Quartzite Mana Infused Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:4, Blue Schist Mana Infused Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:5, Green Schist Mana Infused Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:6, Soapstone Mana Infused Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.mithril.name:7, Migmatite Mana Infused Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:0, Limestone Mana Infused Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:1, Chalk Mana Infused Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:2, Shale Mana Infused Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:3, Siltstone Mana Infused Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:4, Lignite Block Mana Infused Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:5, Dolomite Mana Infused Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:6, Greywacke Mana Infused Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.mithril.name:7, Chert Mana Infused Ore
+undergroundbiomes:igneous_stone_iron_ore:0, Red Granite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:1, Black Granite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:2, Rhyolite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:3, Andesite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:4, Gabbro Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:5, Basalt Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:6, Komatiite Iron Ore
+undergroundbiomes:igneous_stone_iron_ore:7, Dacite Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:0, Gneiss Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:1, Eclogite Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:2, Marble Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:3, Quartzite Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:4, Blue Schist Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:5, Green Schist Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:6, Soapstone Iron Ore
+undergroundbiomes:metamorphic_stone_iron_ore:7, Migmatite Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:0, Limestone Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:1, Chalk Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:2, Shale Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:3, Siltstone Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:4, Lignite Block Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:5, Dolomite Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:6, Greywacke Iron Ore
+undergroundbiomes:sedimentary_stone_iron_ore:7, Chert Iron Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:0, Red Granite Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:1, Black Granite Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:2, Rhyolite Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:3, Andesite Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:4, Gabbro Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:5, Basalt Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:6, Komatiite Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.aluminum.name:7, Dacite Aluminum Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:0, Gneiss Aluminum Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:1, Eclogite Aluminum Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:2, Marble Aluminum Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:3, Quartzite Aluminum Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:4, Blue Schist Aluminum Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:5, Green Schist Aluminum Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:6, Soapstone Aluminum Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.aluminum.name:7, Migmatite Aluminum Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:0, Limestone Aluminum Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:1, Chalk Aluminum Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:2, Shale Aluminum Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:3, Siltstone Aluminum Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:4, Lignite Block Aluminum Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:5, Dolomite Aluminum Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:6, Greywacke Aluminum Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.aluminum.name:7, Chert Aluminum Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:0, Red Granite Iridium Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:1, Black Granite Iridium Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:2, Rhyolite Iridium Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:3, Andesite Iridium Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:4, Gabbro Iridium Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:5, Basalt Iridium Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:6, Komatiite Iridium Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.iridium.name:7, Dacite Iridium Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:0, Gneiss Iridium Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:1, Eclogite Iridium Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:2, Marble Iridium Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:3, Quartzite Iridium Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:4, Blue Schist Iridium Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:5, Green Schist Iridium Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:6, Soapstone Iridium Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.iridium.name:7, Migmatite Iridium Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:0, Limestone Iridium Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:1, Chalk Iridium Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:2, Shale Iridium Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:3, Siltstone Iridium Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:4, Lignite Block Iridium Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:5, Dolomite Iridium Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:6, Greywacke Iridium Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.iridium.name:7, Chert Iridium Ore
+undergroundbiomes:igneous_stone_gold_ore:0, Red Granite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:1, Black Granite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:2, Rhyolite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:3, Andesite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:4, Gabbro Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:5, Basalt Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:6, Komatiite Gold Ore
+undergroundbiomes:igneous_stone_gold_ore:7, Dacite Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:0, Gneiss Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:1, Eclogite Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:2, Marble Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:3, Quartzite Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:4, Blue Schist Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:5, Green Schist Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:6, Soapstone Gold Ore
+undergroundbiomes:metamorphic_stone_gold_ore:7, Migmatite Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:0, Limestone Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:1, Chalk Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:2, Shale Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:3, Siltstone Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:4, Lignite Block Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:5, Dolomite Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:6, Greywacke Gold Ore
+undergroundbiomes:sedimentary_stone_gold_ore:7, Chert Gold Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:0, Red Granite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:1, Black Granite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:2, Rhyolite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:3, Andesite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:4, Gabbro Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:5, Basalt Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:6, Komatiite Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.malachite_ore:7, Dacite Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:0, Gneiss Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:1, Eclogite Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:2, Marble Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:3, Quartzite Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:4, Blue Schist Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:5, Green Schist Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:6, Soapstone Malachite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.malachite_ore:7, Migmatite Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:0, Limestone Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:1, Chalk Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:2, Shale Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:3, Siltstone Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:4, Lignite Block Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:5, Dolomite Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:6, Greywacke Malachite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.malachite_ore:7, Chert Malachite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:0, Red Granite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:1, Black Granite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:2, Rhyolite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:3, Andesite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:4, Gabbro Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:5, Basalt Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:6, Komatiite Peridot Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.peridot_ore:7, Dacite Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:0, Gneiss Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:1, Eclogite Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:2, Marble Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:3, Quartzite Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:4, Blue Schist Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:5, Green Schist Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:6, Soapstone Peridot Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.peridot_ore:7, Migmatite Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:0, Limestone Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:1, Chalk Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:2, Shale Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:3, Siltstone Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:4, Lignite Block Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:5, Dolomite Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:6, Greywacke Peridot Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.peridot_ore:7, Chert Peridot Ore
+undergroundbiomes:igneous_stone_redstone_ore:0, Red Granite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:1, Black Granite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:2, Rhyolite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:3, Andesite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:4, Gabbro Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:5, Basalt Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:6, Komatiite Redstone Ore
+undergroundbiomes:igneous_stone_redstone_ore:7, Dacite Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:0, Gneiss Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:1, Eclogite Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:2, Marble Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:3, Quartzite Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:4, Blue Schist Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:5, Green Schist Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:6, Soapstone Redstone Ore
+undergroundbiomes:metamorphic_stone_redstone_ore:7, Migmatite Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:0, Limestone Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:1, Chalk Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:2, Shale Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:3, Siltstone Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:4, Lignite Block Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:5, Dolomite Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:6, Greywacke Redstone Ore
+undergroundbiomes:sedimentary_stone_redstone_ore:7, Chert Redstone Ore
+undergroundbiomes:igneous_stone_lapis_ore:0, Red Granite Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_lapis_ore:1, Black Granite Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_lapis_ore:2, Rhyolite Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_lapis_ore:3, Andesite Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_lapis_ore:4, Gabbro Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_lapis_ore:5, Basalt Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_lapis_ore:6, Komatiite Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_lapis_ore:7, Dacite Lapis Lazuli Ore
+undergroundbiomes:metamorphic_stone_lapis_ore:0, Gneiss Lapis Lazuli Ore
+undergroundbiomes:metamorphic_stone_lapis_ore:1, Eclogite Lapis Lazuli Ore
+undergroundbiomes:metamorphic_stone_lapis_ore:2, Marble Lapis Lazuli Ore
+undergroundbiomes:metamorphic_stone_lapis_ore:3, Quartzite Lapis Lazuli Ore
+undergroundbiomes:metamorphic_stone_lapis_ore:4, Blue Schist Lapis Lazuli Ore
+undergroundbiomes:metamorphic_stone_lapis_ore:5, Green Schist Lapis Lazuli Ore
+undergroundbiomes:metamorphic_stone_lapis_ore:6, Soapstone Lapis Lazuli Ore
+undergroundbiomes:metamorphic_stone_lapis_ore:7, Migmatite Lapis Lazuli Ore
+undergroundbiomes:sedimentary_stone_lapis_ore:0, Limestone Lapis Lazuli Ore
+undergroundbiomes:sedimentary_stone_lapis_ore:1, Chalk Lapis Lazuli Ore
+undergroundbiomes:sedimentary_stone_lapis_ore:2, Shale Lapis Lazuli Ore
+undergroundbiomes:sedimentary_stone_lapis_ore:3, Siltstone Lapis Lazuli Ore
+undergroundbiomes:sedimentary_stone_lapis_ore:4, Lignite Block Lapis Lazuli Ore
+undergroundbiomes:sedimentary_stone_lapis_ore:5, Dolomite Lapis Lazuli Ore
+undergroundbiomes:sedimentary_stone_lapis_ore:6, Greywacke Lapis Lazuli Ore
+undergroundbiomes:sedimentary_stone_lapis_ore:7, Chert Lapis Lazuli Ore
+undergroundbiomes:igneous_stone_thermalfoundation_ore:0, Red Granite Copper Ore
+undergroundbiomes:igneous_stone_thermalfoundation_ore:1, Black Granite Copper Ore
+undergroundbiomes:igneous_stone_thermalfoundation_ore:2, Rhyolite Copper Ore
+undergroundbiomes:igneous_stone_thermalfoundation_ore:3, Andesite Copper Ore
+undergroundbiomes:igneous_stone_thermalfoundation_ore:4, Gabbro Copper Ore
+undergroundbiomes:igneous_stone_thermalfoundation_ore:5, Basalt Copper Ore
+undergroundbiomes:igneous_stone_thermalfoundation_ore:6, Komatiite Copper Ore
+undergroundbiomes:igneous_stone_thermalfoundation_ore:7, Dacite Copper Ore
+undergroundbiomes:metamorphic_stone_thermalfoundation_ore:0, Gneiss Copper Ore
+undergroundbiomes:metamorphic_stone_thermalfoundation_ore:1, Eclogite Copper Ore
+undergroundbiomes:metamorphic_stone_thermalfoundation_ore:2, Marble Copper Ore
+undergroundbiomes:metamorphic_stone_thermalfoundation_ore:3, Quartzite Copper Ore
+undergroundbiomes:metamorphic_stone_thermalfoundation_ore:4, Blue Schist Copper Ore
+undergroundbiomes:metamorphic_stone_thermalfoundation_ore:5, Green Schist Copper Ore
+undergroundbiomes:metamorphic_stone_thermalfoundation_ore:6, Soapstone Copper Ore
+undergroundbiomes:metamorphic_stone_thermalfoundation_ore:7, Migmatite Copper Ore
+undergroundbiomes:sedimentary_stone_thermalfoundation_ore:0, Limestone Copper Ore
+undergroundbiomes:sedimentary_stone_thermalfoundation_ore:1, Chalk Copper Ore
+undergroundbiomes:sedimentary_stone_thermalfoundation_ore:2, Shale Copper Ore
+undergroundbiomes:sedimentary_stone_thermalfoundation_ore:3, Siltstone Copper Ore
+undergroundbiomes:sedimentary_stone_thermalfoundation_ore:4, Lignite Block Copper Ore
+undergroundbiomes:sedimentary_stone_thermalfoundation_ore:5, Dolomite Copper Ore
+undergroundbiomes:sedimentary_stone_thermalfoundation_ore:6, Greywacke Copper Ore
+undergroundbiomes:sedimentary_stone_thermalfoundation_ore:7, Chert Copper Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:0, Red Granite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:1, Black Granite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:2, Rhyolite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:3, Andesite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:4, Gabbro Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:5, Basalt Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:6, Komatiite Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.sapphire_ore:7, Dacite Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:0, Gneiss Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:1, Eclogite Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:2, Marble Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:3, Quartzite Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:4, Blue Schist Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:5, Green Schist Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:6, Soapstone Sapphire Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.sapphire_ore:7, Migmatite Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:0, Limestone Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:1, Chalk Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:2, Shale Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:3, Siltstone Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:4, Lignite Block Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:5, Dolomite Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:6, Greywacke Sapphire Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.sapphire_ore:7, Chert Sapphire Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:0, Red Granite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:1, Black Granite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:2, Rhyolite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:3, Andesite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:4, Gabbro Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:5, Basalt Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:6, Komatiite Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.ruby_ore:7, Dacite Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:0, Gneiss Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:1, Eclogite Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:2, Marble Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:3, Quartzite Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:4, Blue Schist Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:5, Green Schist Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:6, Soapstone Ruby Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.ruby_ore:7, Migmatite Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:0, Limestone Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:1, Chalk Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:2, Shale Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:3, Siltstone Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:4, Lignite Block Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:5, Dolomite Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:6, Greywacke Ruby Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.ruby_ore:7, Chert Ruby Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:0, Red Granite Tanzanite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:1, Black Granite Tanzanite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:2, Rhyolite Tanzanite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:3, Andesite Tanzanite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:4, Gabbro Tanzanite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:5, Basalt Tanzanite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:6, Komatiite Tanzanite Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.tanzanite_ore:7, Dacite Tanzanite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:0, Gneiss Tanzanite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:1, Eclogite Tanzanite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:2, Marble Tanzanite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:3, Quartzite Tanzanite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:4, Blue Schist Tanzanite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:5, Green Schist Tanzanite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:6, Soapstone Tanzanite Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.tanzanite_ore:7, Migmatite Tanzanite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:0, Limestone Tanzanite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:1, Chalk Tanzanite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:2, Shale Tanzanite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:3, Siltstone Tanzanite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:4, Lignite Block Tanzanite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:5, Dolomite Tanzanite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:6, Greywacke Tanzanite Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.tanzanite_ore:7, Chert Tanzanite Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:0, Red Granite Tin Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:1, Black Granite Tin Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:2, Rhyolite Tin Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:3, Andesite Tin Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:4, Gabbro Tin Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:5, Basalt Tin Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:6, Komatiite Tin Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.tin.name:7, Dacite Tin Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:0, Gneiss Tin Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:1, Eclogite Tin Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:2, Marble Tin Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:3, Quartzite Tin Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:4, Blue Schist Tin Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:5, Green Schist Tin Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:6, Soapstone Tin Ore
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.tin.name:7, Migmatite Tin Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:0, Limestone Tin Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:1, Chalk Tin Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:2, Shale Tin Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:3, Siltstone Tin Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:4, Lignite Block Tin Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:5, Dolomite Tin Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:6, Greywacke Tin Ore
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.tin.name:7, Chert Tin Ore
+undergroundbiomes:igneous_stone_emerald_ore:0, Red Granite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:1, Black Granite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:2, Rhyolite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:3, Andesite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:4, Gabbro Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:5, Basalt Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:6, Komatiite Emerald Ore
+undergroundbiomes:igneous_stone_emerald_ore:7, Dacite Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:0, Gneiss Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:1, Eclogite Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:2, Marble Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:3, Quartzite Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:4, Blue Schist Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:5, Green Schist Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:6, Soapstone Emerald Ore
+undergroundbiomes:metamorphic_stone_emerald_ore:7, Migmatite Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:0, Limestone Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:1, Chalk Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:2, Shale Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:3, Siltstone Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:4, Lignite Block Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:5, Dolomite Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:6, Greywacke Emerald Ore
+undergroundbiomes:sedimentary_stone_emerald_ore:7, Chert Emerald Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:0, Red Granite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:1, Black Granite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:2, Rhyolite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:3, Andesite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:4, Gabbro Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:5, Basalt Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:6, Komatiite Topaz Ore
+undergroundbiomes:igneous_stone_tile.gem_ore.topaz_ore:7, Dacite Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:0, Gneiss Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:1, Eclogite Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:2, Marble Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:3, Quartzite Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:4, Blue Schist Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:5, Green Schist Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:6, Soapstone Topaz Ore
+undergroundbiomes:metamorphic_stone_tile.gem_ore.topaz_ore:7, Migmatite Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:0, Limestone Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:1, Chalk Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:2, Shale Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:3, Siltstone Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:4, Lignite Block Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:5, Dolomite Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:6, Greywacke Topaz Ore
+undergroundbiomes:sedimentary_stone_tile.gem_ore.topaz_ore:7, Chert Topaz Ore
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:0, Red Granite Oil Shale
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:1, Black Granite Oil Shale
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:2, Rhyolite Oil Shale
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:3, Andesite Oil Shale
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:4, Gabbro Oil Shale
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:5, Basalt Oil Shale
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:6, Komatiite Oil Shale
+undergroundbiomes:igneous_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:7, Dacite Oil Shale
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:0, Gneiss Oil Shale
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:1, Eclogite Oil Shale
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:2, Marble Oil Shale
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:3, Quartzite Oil Shale
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:4, Blue Schist Oil Shale
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:5, Green Schist Oil Shale
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:6, Soapstone Oil Shale
+undergroundbiomes:metamorphic_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:7, Migmatite Oil Shale
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:0, Limestone Oil Shale
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:1, Chalk Oil Shale
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:2, Shale Oil Shale
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:3, Siltstone Oil Shale
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:4, Lignite Block Oil Shale
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:5, Dolomite Oil Shale
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:6, Greywacke Oil Shale
+undergroundbiomes:sedimentary_stone_tile.thermalfoundation.ore.crude_oil_gravel.name:7, Chert Oil Shale
+undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:0, Red Granite Quartz Ore
+undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:1, Black Granite Quartz Ore
+undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:2, Rhyolite Quartz Ore
+undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:3, Andesite Quartz Ore
+undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:4, Gabbro Quartz Ore
+undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:5, Basalt Quartz Ore
+undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:6, Komatiite Quartz Ore
+undergroundbiomes:igneous_stone_thaumcraft_ore_quartz:7, Dacite Quartz Ore
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:0, Gneiss Quartz Ore
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:1, Eclogite Quartz Ore
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:2, Marble Quartz Ore
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:3, Quartzite Quartz Ore
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:4, Blue Schist Quartz Ore
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:5, Green Schist Quartz Ore
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:6, Soapstone Quartz Ore
+undergroundbiomes:metamorphic_stone_thaumcraft_ore_quartz:7, Migmatite Quartz Ore
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:0, Limestone Quartz Ore
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:1, Chalk Quartz Ore
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:2, Shale Quartz Ore
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:3, Siltstone Quartz Ore
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:4, Lignite Block Quartz Ore
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:5, Dolomite Quartz Ore
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:6, Greywacke Quartz Ore
+undergroundbiomes:sedimentary_stone_thaumcraft_ore_quartz:7, Chert Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:0, Red Granite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:1, Black Granite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:2, Rhyolite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:3, Andesite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:4, Gabbro Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:5, Basalt Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:6, Komatiite Certus Quartz Ore
+undergroundbiomes:igneous_stone_appliedenergistics2_quartz_ore:7, Dacite Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:0, Gneiss Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:1, Eclogite Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:2, Marble Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:3, Quartzite Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:4, Blue Schist Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:5, Green Schist Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:6, Soapstone Certus Quartz Ore
+undergroundbiomes:metamorphic_stone_appliedenergistics2_quartz_ore:7, Migmatite Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:0, Limestone Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:1, Chalk Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:2, Shale Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:3, Siltstone Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:4, Lignite Block Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:5, Dolomite Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:6, Greywacke Certus Quartz Ore
+undergroundbiomes:sedimentary_stone_appliedenergistics2_quartz_ore:7, Chert Certus Quartz Ore
 waystones:waystone, Waystone
 waystones:return_scroll, Return Scroll
 waystones:bound_scroll, Bound Scroll
