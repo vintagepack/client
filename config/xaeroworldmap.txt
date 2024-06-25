@@ -4,8 +4,8 @@ allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
 debug:false
-lighting:false
-colours:1
+lighting:true
+colours:0
 loadChunks:true
 updateChunks:true
 terrainSlopes:2

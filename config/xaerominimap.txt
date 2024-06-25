@@ -73,7 +73,7 @@ minimapShape:0
 lightOverlayType:0
 lightOverlayMaxLight:7
 lightOverlayMinLight:0
-lightOverlayColor:15
+lightOverlayColor:0
 uiScale:1
 bossHealthPushBox:1
 potionEffectPushBox:1

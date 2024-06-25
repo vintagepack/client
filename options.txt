@@ -4,18 +4,18 @@ mouseSensitivity:0.17605634
 fov:0.55
 gamma:0.20422535
 saturation:0.0
-renderDistance:8
+renderDistance:5
 guiScale:3
-particles:1
-bobView:false
+particles:0
+bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:fast
-resourcePacks:[]
+resourcePacks:["Extra CPUs (1).zip","Extra CPUs.zip","PureBDcraft  64x MC112.zip","PureBDcraft Technology MC112.zip","PureBDcraft_ThaumicEnergistics_64x.zip","Sphax Baubles 64x 1.11.2-1.4.4.zip","Sphax Storage Drawers 64x MC112.zip","Sphax128x_Blood_Magic_Patch_[Beta]_(1.12)_2.4.3-105.zip","Sphax64x_BOP_Ver7.0.1.2408.zip","Sphax64x_Botania_Ver1.9.349.zip","Sphax64x_Quark_Ver1.5-129.zip","Sphax64x_Thaumcraft_MC1.12.zip","Sphax64x_Twilight_Forest_MC1.12.zip","Sphax64x_UBC_MC1.12.2.zip","Sphax_AE2_Extended_Life_rv6_64x.zip","Sphax_CoFHCore_512x-64x.zip","Sphax_JustEnoughItems_512x-64x.zip","Sphax_RedstoneArsenal_64x.zip","Sphax_ThermalCultivation_64x.zip","Sphax_ThermalDynamics_128x.zip","Sphax_ThermalExpansion_64x.zip","Sphax_ThermalFoundation_64x.zip","Sphax_ThermalInnovation_64x.zip","[1.12.2] [64x] Sphax Patch - Nature\u0027s Compass.zip","[128x] Blockcraftery BDCraft - 1.12.zip","[512x - 64x] Better Advancements BDCraft - 1.12.zip","[512x - 64x] Thaumic JEI BDCraft - 1.12.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -145,17 +145,17 @@ key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_gui.xaero_switch_waypoint_set:0
-key_gui.xaero_instant_waypoint:78
+key_gui.xaero_instant_waypoint:0
 key_gui.xaero_toggle_slime:0
 key_gui.xaero_toggle_grid:0
 key_gui.xaero_toggle_waypoints:0
 key_gui.xaero_toggle_map_waypoints:0
 key_gui.xaero_toggle_map:0
-key_gui.xaero_enlarge_map:44
-key_gui.xaero_waypoints_key:22
+key_gui.xaero_enlarge_map:43
+key_gui.xaero_waypoints_key:76
 key_gui.xaero_zoom_in:0
 key_gui.xaero_zoom_out:0
-key_gui.xaero_new_waypoint:48
+key_gui.xaero_new_waypoint:0
 key_gui.xaero_display_all_sets:0
 key_gui.xaero_toggle_light_overlay:0
 key_gui.xaero_toggle_entity_radar:0
@@ -163,7 +163,7 @@ key_gui.xaero_reverse_entity_radar:0
 key_gui.xaero_toggle_manual_cave_mode:0
 key_gui.xaero_alternative_list_players:0
 key_gui.xaero_toggle_tracked_players:0
-key_gui.xaero_minimap_settings:21
+key_gui.xaero_minimap_settings:0
 key_gui.xaero_open_map:50
 key_gui.xaero_open_settings:27
 key_gui.xaero_map_zoom_in:0
@@ -172,10 +172,10 @@ key_gui.xaero_quick_confirm:54
 key_gui.xaero_toggle_dimension:0
 key_Check Slot:25
 soundCategory_master:0.50993377
-soundCategory_music:0.0
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:0.5
-soundCategory_block:1.0
+soundCategory_block:0.5
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:0.28873238
