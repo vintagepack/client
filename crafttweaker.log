@@ -1,24 +1,24 @@
 [PREINITIALIZATION][CLIENT][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
 Belathus
-Peregrinus11
-NerdyWhiteGuy
-NickT
-Jonathan McManus
-Lucas
-Zuniroa
-Phillip Swearingain
-Quaternary
-Hooley
-Jordan Pineo
-Pongo Sapiens
-embeddedt
 DreamThorn
+Ivy_
+Phillip Swearingain
 Jellycraft
 Jessie Sims
-Ncc1702
+Jordan Pineo
+Pongo Sapiens
 Genryu
+Quaternary
+NerdyWhiteGuy
+Lucas
+Ncc1702
+Zuniroa
+Peregrinus11
+Jonathan McManus
+embeddedt
+NickT
 Spencer Gilbert
-Ivy_
+Hooley
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
@@ -37,7 +37,7 @@ This is usually an error in your script, not in the mod
 hide(ZenTypeNative: crafttweaker.item.IItemStack)
 hide(ZenTypeNative: crafttweaker.liquid.ILiquidStack)
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 432ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 538ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thaumcraft:plate:1>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem_block:7>
