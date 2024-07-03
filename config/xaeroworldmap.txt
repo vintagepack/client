@@ -14,7 +14,7 @@ footsteps:false
 flowers:true
 coordinates:true
 hoveredBiome:true
-biomeColorsVanillaMode:false
+biomeColorsVanillaMode:true
 waypoints:true
 renderArrow:true
 displayZoom:true

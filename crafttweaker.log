@@ -1,24 +1,24 @@
 [PREINITIALIZATION][CLIENT][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
-DreamThorn
-Jessie Sims
 Quaternary
-Jonathan McManus
-Hooley
-Belathus
-Lucas
-Genryu
-Jordan Pineo
-Spencer Gilbert
-Phillip Swearingain
-embeddedt
-NerdyWhiteGuy
-Ncc1702
 Peregrinus11
-Pongo Sapiens
-Zuniroa
-Ivy_
-NickT
+NerdyWhiteGuy
 Jellycraft
+Jordan Pineo
+embeddedt
+Jessie Sims
+Ncc1702
+DreamThorn
+Jonathan McManus
+Phillip Swearingain
+Ivy_
+Hooley
+Genryu
+NickT
+Zuniroa
+Spencer Gilbert
+Lucas
+Belathus
+Pongo Sapiens
 If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 
 [PREINITIALIZATION][CLIENT][INFO] Current loaders after merging: [[preinit]]
@@ -32,7 +32,7 @@ If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: main.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 259ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 286ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <thaumcraft:plate:1>
 [AVAILABLE][CLIENT][INFO] Hiding item in JEI: <biomesoplenty:gem_block:7>

@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:true
+fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -153,7 +153,7 @@ key_gui.xaero_toggle_map:0
 key_gui.xaero_enlarge_map:43
 key_gui.xaero_waypoints_key:0
 key_gui.xaero_zoom_in:0
-key_gui.xaero_zoom_out:0
+key_gui.xaero_zoom_out:26
 key_gui.xaero_new_waypoint:0
 key_gui.xaero_display_all_sets:0
 key_gui.xaero_toggle_light_overlay:0
