@@ -4,19 +4,19 @@ mouseSensitivity:0.17605634
 fov:0.55
 gamma:0.20422535
 saturation:0.0
-renderDistance:2
+renderDistance:4
 guiScale:3
 particles:0
-bobView:false
+bobView:true
 anaglyph3d:false
-maxFps:60
+maxFps:120
 fboEnable:true
 difficulty:2
 fancyGraphics:false
 ao:1
-renderClouds:fast
-resourcePacks:["Extra CPUs (1).zip","Extra CPUs.zip","PureBDcraft  64x MC112.zip","PureBDcraft Technology MC112.zip","PureBDcraft_ThaumicEnergistics_64x.zip","Sphax Baubles 64x 1.11.2-1.4.4.zip","Sphax Storage Drawers 64x MC112.zip","Sphax128x_Blood_Magic_Patch_[Beta]_(1.12)_2.4.3-105.zip","Sphax64x_BOP_Ver7.0.1.2408.zip","Sphax64x_Botania_Ver1.9.349.zip","Sphax64x_Quark_Ver1.5-129.zip","Sphax64x_Thaumcraft_MC1.12.zip","Sphax64x_Twilight_Forest_MC1.12.zip","Sphax64x_UBC_MC1.12.2.zip","Sphax_AE2_Extended_Life_rv6_64x.zip","Sphax_CoFHCore_512x-64x.zip","Sphax_JustEnoughItems_512x-64x.zip","Sphax_RedstoneArsenal_64x.zip","Sphax_ThermalCultivation_64x.zip","Sphax_ThermalDynamics_128x.zip","Sphax_ThermalExpansion_64x.zip","Sphax_ThermalFoundation_64x.zip","Sphax_ThermalInnovation_64x.zip","[1.12.2] [64x] Sphax Patch - Nature\u0027s Compass.zip","[128x] Blockcraftery BDCraft - 1.12.zip","[512x - 64x] Better Advancements BDCraft - 1.12.zip","[512x - 64x] Thaumic JEI BDCraft - 1.12.zip"]
-incompatibleResourcePacks:[]
+renderClouds:true
+resourcePacks:["Dark Mode.zip","Simple+Click.zip","Alternative Rain Sound 1.11-1.12.2.zip","Authentic Shadows_1.11-1.12.zip"]
+incompatibleResourcePacks:["Simple+Click.zip"]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -25,11 +25,11 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:false
-enableVsync:false
+fullscreen:true
+enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -38,12 +38,12 @@ heldItemTooltips:true
 chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0
-chatWidth:0.62676054
+chatWidth:1.0
 mipmapLevels:0
 forceUnicodeFont:false
 reducedDebugInfo:false
 useNativeTransport:true
-entityShadows:false
+entityShadows:true
 mainHand:right
 attackIndicator:1
 showSubtitles:false
@@ -85,10 +85,8 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Change Caster Focus:0
-key_Misc Caster Toggle:0
-key_Reload Menu | CTRL + ALT + :19
-key_Toggle Customization Overlay | CTRL + ALT + :46
+key_Change Caster Focus:44
+key_Misc Caster Toggle:45
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -119,7 +117,7 @@ key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
-key_key.jei.toggleOverlay:0
+key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
 key_key.jei.toggleEditMode:0
@@ -130,21 +128,21 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_nei.options.keys.gui.botania_corporea_request:0
-key_key.cofh.multimode:79
+key_nei.options.keys.gui.botania_corporea_request:73
+key_key.cofh.multimode:47
 key_waila.keybind.wailaconfig:0
-key_waila.keybind.wailadisplay:0
-key_waila.keybind.liquid:0
+key_waila.keybind.wailadisplay:72
+key_waila.keybind.liquid:71
 key_waila.keybind.recipe:0
 key_waila.keybind.usage:0
 key_FpsReducer.key.guiOpen:0
 key_FpsReducer.key.forceIdle:0
-key_key.radial_menu:0
-key_key.use_ring:0
+key_key.radial_menu:76
+key_key.use_ring:75
 key_key.use_secondary_ring:0
-key_key.open_pouch:0
-key_key.connect_caving_rope:0
-key_keybind.universaltweaks.clear_toasts:0
+key_key.open_pouch:77
+key_key.connect_caving_rope:47
+key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:0
 key_gui.xaero_toggle_slime:0
@@ -172,13 +170,13 @@ key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_Check Slot:25
-soundCategory_master:0.5033113
-soundCategory_music:0.5
+soundCategory_master:0.5
+soundCategory_music:0.6549296
 soundCategory_record:1.0
-soundCategory_weather:0.5
-soundCategory_block:1.0
-soundCategory_hostile:1.0
-soundCategory_neutral:1.0
+soundCategory_weather:0.556338
+soundCategory_block:0.8028169
+soundCategory_hostile:0.9577465
+soundCategory_neutral:0.75352114
 soundCategory_player:0.5
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
