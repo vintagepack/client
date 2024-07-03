@@ -10,6 +10,7 @@ git init .
 git remote get-url origin 2>nul || git remote add origin %GIT_REPO%
 
 if /i "%CONFIRM%"=="y" (
+	git lfs install
 	git fetch origin
 	git switch main
 	git reset --hard origin/main

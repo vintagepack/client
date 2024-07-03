@@ -13,7 +13,7 @@ minimap:true
 caveMaps:2
 caveZoom:1
 showWaypoints:true
-showIngameWaypoints:true
+showIngameWaypoints:false
 displayRedstone:true
 deathpoints:true
 oldDeathpoints:true
@@ -31,7 +31,7 @@ waypointsIngameNameScale:0
 waypointsIngameCloseScale:1.0
 antiAliasing:false
 blockColours:0
-lighting:false
+lighting:true
 dotsStyle:0
 dotNameScale:1.0
 compassOverEverything:true
@@ -58,7 +58,7 @@ renderLayerIndex:0
 biomeColorsVanillaMode:false
 lookingAtAngle:10
 lookingAtAngleVertical:180
-centeredEnlarged:false
+centeredEnlarged:true
 zoomOnEnlarged:0
 minimapTextAlign:1
 waypointsMutualEdit:true
@@ -78,7 +78,7 @@ uiScale:1
 bossHealthPushBox:1
 potionEffectPushBox:1
 minimapFrame:0
-minimapFrameColor:9
+minimapFrameColor:0
 compassColor:9
 northCompassColor:-1
 displayMultipleWaypointInfo:1
@@ -95,8 +95,8 @@ manualCaveModeStartAuto:true
 manualCaveModeStart:-1
 chunkGridLineWidth:1
 temporaryWaypointsGlobal:true
-keepUnlockedWhenEnlarged:false
-enlargedMinimapAToggle:false
+keepUnlockedWhenEnlarged:true
+enlargedMinimapAToggle:true
 displayStainedGlass:true
 waypointOnMapScale:0
 switchToAutoOnDeath:true
@@ -124,5 +124,5 @@ interface:dummy:0:36:true:false:false:false
 interface:dummy:0:10000:true:false:false:false
 interface:dummy:0:0:false:false:true:false
 interface:dummy:0:36:true:false:false:false
-interface:gui.xaero_minimap:0:0:false:false:false:false
+interface:gui.xaero_minimap:0:0:false:false:true:false
 #WAYPOINTS HAVE BEEN MOVED TO /XaeroWaypoints
