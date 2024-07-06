@@ -4,14 +4,14 @@ mouseSensitivity:0.17605634
 fov:0.55
 gamma:0.20422535
 saturation:0.0
-renderDistance:6
+renderDistance:4
 guiScale:3
-particles:0
+particles:1
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:fast
@@ -25,8 +25,8 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:true
-enableVsync:false
+fullscreen:false
+enableVsync:true
 useVbo:true
 hideServerAddress:false
 advancedItemTooltips:true
@@ -169,9 +169,10 @@ key_gui.xaero_map_zoom_in:0
 key_gui.xaero_map_zoom_out:0
 key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
+key_key.entityculling.toggle:-1
 key_Check Slot:25
-soundCategory_master:0.7549669
-soundCategory_music:0.6549296
+soundCategory_master:0.705298
+soundCategory_music:0.75352114
 soundCategory_record:1.0
 soundCategory_weather:0.556338
 soundCategory_block:0.8873239
