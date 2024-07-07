@@ -6,7 +6,7 @@ gamma:0.20422535
 saturation:0.0
 renderDistance:4
 guiScale:3
-particles:1
+particles:2
 bobView:true
 anaglyph3d:false
 maxFps:260
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
