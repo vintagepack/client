@@ -4,14 +4,14 @@ mouseSensitivity:0.20422535
 fov:0.55
 gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:5
 guiScale:3
 particles:1
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:3
 fancyGraphics:false
 ao:1
 renderClouds:false
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:true
+fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -175,7 +175,7 @@ soundCategory_master:0.705298
 soundCategory_music:0.75352114
 soundCategory_record:1.0
 soundCategory_weather:0.5
-soundCategory_block:0.0
+soundCategory_block:0.85915494
 soundCategory_hostile:0.8873239
 soundCategory_neutral:0.75352114
 soundCategory_player:0.556338
