@@ -2,16 +2,16 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.20422535
 fov:0.55
-gamma:1.0
+gamma:0.20422535
 saturation:0.0
-renderDistance:5
+renderDistance:4
 guiScale:3
-particles:1
+particles:2
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:3
+difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:false
@@ -45,7 +45,7 @@ reducedDebugInfo:false
 useNativeTransport:true
 entityShadows:true
 mainHand:right
-attackIndicator:1
+attackIndicator:2
 showSubtitles:false
 realmsNotifications:true
 enableWeakAttacks:false
@@ -117,6 +117,10 @@ key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
+key_key.musicplayer.open:66
+key_key.musicplayer.pause:80
+key_key.musicplayer.skip.forward:81
+key_key.musicplayer.skip.back:79
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
@@ -172,7 +176,7 @@ key_gui.xaero_toggle_dimension:0
 key_key.entityculling.toggle:-1
 key_Check Slot:25
 soundCategory_master:0.705298
-soundCategory_music:0.75352114
+soundCategory_music:0.74647886
 soundCategory_record:1.0
 soundCategory_weather:0.5
 soundCategory_block:0.85915494
