@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:0
+difficulty:2
 fancyGraphics:false
 ao:1
 renderClouds:false
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -121,8 +121,6 @@ key_key.musicplayer.open:66
 key_key.musicplayer.pause:72:ALT
 key_key.musicplayer.skip.forward:73:ALT
 key_key.musicplayer.skip.back:71:ALT
-key_Difficulty Meter - Show:49
-key_Difficulty Meter - Show Always:49:SHIFT
 key_smoothfont.key.guiOpen:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:0
@@ -179,7 +177,7 @@ key_gui.xaero_toggle_dimension:0
 key_key.entityculling.toggle:-1
 key_Check Slot:25
 soundCategory_master:0.75827813
-soundCategory_music:0.75352114
+soundCategory_music:0.5
 soundCategory_record:1.0
 soundCategory_weather:0.5
 soundCategory_block:0.85211265
