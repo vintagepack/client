@@ -6,12 +6,12 @@ gamma:0.20422535
 saturation:0.0
 renderDistance:4
 guiScale:3
-particles:2
+particles:1
 bobView:true
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:false
 ao:1
 renderClouds:false
@@ -85,8 +85,8 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_Change Caster Focus:44
-key_Misc Caster Toggle:45
+key_Change Caster Focus:33
+key_Misc Caster Toggle:34
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -112,15 +112,18 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_keybind.baublesinventory:0
+key_keybind.baublesinventory:48
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
 key_bloodmagic.keybind.cycle_holding_neg:12:SHIFT
 key_cos.key.opencosarmorinventory:0
 key_key.musicplayer.open:66
-key_key.musicplayer.pause:80
-key_key.musicplayer.skip.forward:81
-key_key.musicplayer.skip.back:79
+key_key.musicplayer.pause:72:ALT
+key_key.musicplayer.skip.forward:73:ALT
+key_key.musicplayer.skip.back:71:ALT
+key_Difficulty Meter - Show:49
+key_Difficulty Meter - Show Always:49:SHIFT
+key_smoothfont.key.guiOpen:199
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
@@ -132,19 +135,19 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_nei.options.keys.gui.botania_corporea_request:73
+key_nei.options.keys.gui.botania_corporea_request:46
 key_key.cofh.multimode:47
-key_waila.keybind.wailaconfig:0
-key_waila.keybind.wailadisplay:72
-key_waila.keybind.liquid:71
-key_waila.keybind.recipe:0
-key_waila.keybind.usage:0
-key_FpsReducer.key.guiOpen:0
-key_FpsReducer.key.forceIdle:0
-key_key.radial_menu:76
-key_key.use_ring:75
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:79
+key_waila.keybind.liquid:80
+key_waila.keybind.recipe:81
+key_waila.keybind.usage:75
+key_FpsReducer.key.guiOpen:207
+key_FpsReducer.key.forceIdle:197
+key_key.radial_menu:46
+key_key.use_ring:19
 key_key.use_secondary_ring:0
-key_key.open_pouch:77
+key_key.open_pouch:34
 key_key.connect_caving_rope:47
 key_keybind.universaltweaks.clear_toasts:11:CONTROL
 key_gui.xaero_switch_waypoint_set:0
@@ -156,8 +159,8 @@ key_gui.xaero_toggle_map_waypoints:0
 key_gui.xaero_toggle_map:0
 key_gui.xaero_enlarge_map:43
 key_gui.xaero_waypoints_key:0
-key_gui.xaero_zoom_in:0
-key_gui.xaero_zoom_out:26
+key_gui.xaero_zoom_in:26
+key_gui.xaero_zoom_out:0
 key_gui.xaero_new_waypoint:0
 key_gui.xaero_display_all_sets:0
 key_gui.xaero_toggle_light_overlay:0
@@ -175,11 +178,11 @@ key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_key.entityculling.toggle:-1
 key_Check Slot:25
-soundCategory_master:0.705298
+soundCategory_master:0.75827813
 soundCategory_music:0.75352114
 soundCategory_record:1.0
 soundCategory_weather:0.5
-soundCategory_block:0.85915494
+soundCategory_block:0.85211265
 soundCategory_hostile:0.8873239
 soundCategory_neutral:0.75352114
 soundCategory_player:0.556338
