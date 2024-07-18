@@ -4,15 +4,15 @@ mouseSensitivity:0.20422535
 fov:0.55
 gamma:0.2535211
 saturation:0.0
-renderDistance:4
+renderDistance:8
 guiScale:3
-particles:1
+particles:0
 bobView:true
 anaglyph3d:false
-maxFps:260
+maxFps:250
 fboEnable:true
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:1
 renderClouds:true
 resourcePacks:["jappabp-1.2-mc1.12.zip","Dark Mode.zip","Simple+Click.zip","Alternative Rain Sound 1.11-1.12.2.zip","Authentic Shadows_1.11-1.12.zip"]
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:true
+fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -177,7 +177,7 @@ key_gui.xaero_toggle_dimension:0
 key_key.entityculling.toggle:-1
 key_Check Slot:25
 soundCategory_master:0.75827813
-soundCategory_music:0.65
+soundCategory_music:0.6549296
 soundCategory_record:1.0
 soundCategory_weather:0.5
 soundCategory_block:0.85211265
