@@ -2,7 +2,7 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.20422535
 fov:0.55
-gamma:0.2535211
+gamma:0.20422535
 saturation:0.0
 renderDistance:8
 guiScale:3
@@ -25,7 +25,7 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:true
+fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
@@ -180,10 +180,10 @@ soundCategory_master:0.75827813
 soundCategory_music:0.556338
 soundCategory_record:1.0
 soundCategory_weather:0.5
-soundCategory_block:0.85211265
+soundCategory_block:0.85915494
 soundCategory_hostile:0.8873239
 soundCategory_neutral:0.75352114
-soundCategory_player:0.556338
+soundCategory_player:0.40140846
 soundCategory_ambient:1.0
 soundCategory_voice:0.0
 modelPart_cape:true
