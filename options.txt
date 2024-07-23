@@ -2,20 +2,20 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.20422535
 fov:0.55
-gamma:0.20422535
+gamma:1.0
 saturation:0.0
-renderDistance:8
+renderDistance:5
 guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
-maxFps:250
+maxFps:200
 fboEnable:true
 difficulty:3
-fancyGraphics:true
+fancyGraphics:false
 ao:1
 renderClouds:true
-resourcePacks:["jappabp-1.2-mc1.12.zip","Dark Mode.zip","Simple+Click.zip","Alternative Rain Sound 1.11-1.12.2.zip","Authentic Shadows_1.11-1.12.zip"]
+resourcePacks:["jappabp-1.2-mc1.12.zip","Simple+Click.zip","Alternative Rain Sound 1.11-1.12.2.zip","Authentic Shadows_1.11-1.12.zip"]
 incompatibleResourcePacks:["Simple+Click.zip"]
 lastServer:blockmania.com
 lang:en_us
@@ -25,11 +25,11 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
 snooperEnabled:false
-fullscreen:false
+fullscreen:true
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -87,6 +87,13 @@ key_key.hotbar.8:9
 key_key.hotbar.9:10
 key_Change Caster Focus:33
 key_Misc Caster Toggle:34
+key_quark.keybind.dropoff:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.playerSort:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -105,13 +112,6 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.playerSort:0
 key_keybind.baublesinventory:48
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -176,8 +176,8 @@ key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_key.entityculling.toggle:-1
 key_Check Slot:25
-soundCategory_master:0.75827813
-soundCategory_music:0.556338
+soundCategory_master:0.65562916
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.5
 soundCategory_block:0.85915494
@@ -186,10 +186,10 @@ soundCategory_neutral:0.75352114
 soundCategory_player:0.40140846
 soundCategory_ambient:1.0
 soundCategory_voice:0.0
-modelPart_cape:true
-modelPart_jacket:true
-modelPart_left_sleeve:true
-modelPart_right_sleeve:true
-modelPart_left_pants_leg:true
-modelPart_right_pants_leg:true
+modelPart_cape:false
+modelPart_jacket:false
+modelPart_left_sleeve:false
+modelPart_right_sleeve:false
+modelPart_left_pants_leg:false
+modelPart_right_pants_leg:false
 modelPart_hat:true
