@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:1
 renderClouds:true
-resourcePacks:["jappabp-1.2-mc1.12","Simple+Click.zip","Authentic Shadows_1.11-1.12.zip"]
+resourcePacks:["jappabp-1.2-mc1.12.zip","Simple+Click.zip","Authentic Shadows_1.11-1.12.zip"]
 incompatibleResourcePacks:["Simple+Click.zip"]
 lastServer:blockmania.com
 lang:en_us
