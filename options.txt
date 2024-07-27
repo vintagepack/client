@@ -1,6 +1,6 @@
 version:1343
 invertYMouse:false
-mouseSensitivity:0.20422535
+mouseSensitivity:0.33802816
 fov:0.75
 gamma:0.20422535
 saturation:0.0
@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:1
 renderClouds:true
-resourcePacks:["jappabp-1.2-mc1.12.zip","Simple+Click.zip","Authentic Shadows_1.11-1.12.zip"]
+resourcePacks:["Dark Mode.zip","Simple+Click.zip","Authentic Shadows_1.11-1.12.zip"]
 incompatibleResourcePacks:["Simple+Click.zip"]
 lastServer:blockmania.com
 lang:en_us
@@ -94,24 +94,6 @@ key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_quark.keybind.playerSort:0
-key_quark.emote.no:0
-key_quark.emote.yes:0
-key_quark.emote.wave:0
-key_quark.emote.salute:0
-key_quark.emote.cheer:0
-key_quark.emote.clap:0
-key_quark.emote.think:0
-key_quark.emote.point:0
-key_quark.emote.shrug:0
-key_quark.emote.headbang:0
-key_quark.emote.weep:0
-key_quark.emote.facepalm:0
-key_quark.emote.dance:0
-key_quark.emote.tpose:0
-key_quark.emote.dab:0
-key_quark.emote.jet:0
-key_quark.emote.exorcist:0
-key_quark.emote.zombie:0
 key_keybind.baublesinventory:48
 key_bloodmagic.keybind.open_holding:35
 key_bloodmagic.keybind.cycle_holding_pos:13:SHIFT
@@ -127,6 +109,7 @@ key_key.open_wireless_terminal.desc:77
 key_key.open_wireless_crafting_terminal.desc:72
 key_key.open_wireless_pattern_terminal.desc:76
 key_key.open_wireless_fluid_terminal.desc:75
+key_key.aether.accessory_menu:0
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:0
 key_key.jei.toggleCheatMode:0
@@ -181,8 +164,8 @@ key_gui.xaero_quick_confirm:0
 key_gui.xaero_toggle_dimension:0
 key_key.entityculling.toggle:-1
 key_Check Slot:25
-soundCategory_master:0.65562916
-soundCategory_music:0.0
+soundCategory_master:0.70198673
+soundCategory_music:0.6549296
 soundCategory_record:1.0
 soundCategory_weather:0.5
 soundCategory_block:0.85915494
